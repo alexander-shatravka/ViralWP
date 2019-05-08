@@ -1,3 +1,4 @@
 /wp-content/updraft/*
 /wp-snapshots/
 /web/.htaccess
+/wp-config.php
