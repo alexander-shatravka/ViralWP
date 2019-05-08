@@ -1,0 +1,26 @@
+
+---Downloaded files---
+The import files for: Main Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://viral.com.ua
+Data file = /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__10-26-50.xml
+Widget file = not defined!
+Customizer file = /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/demo-customizer-import-file_2019-04-03__10-26-50.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import portfolio_category App
+[WARNING] Failed to import portfolio_category Architecture
+[WARNING] Failed to import portfolio_category Concept
+[WARNING] Failed to import portfolio_category Design
+[WARNING] Failed to import portfolio_category Marketing
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
