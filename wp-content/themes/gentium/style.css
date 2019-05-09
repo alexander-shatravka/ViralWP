@@ -3099,7 +3099,7 @@ body.scroll-off{
 	opacity: 0;
 	padding-top: 10px;
 	max-width: 600px;
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -45%);
 	position: fixed;
 	left: 50%;
 	top: 50%;
