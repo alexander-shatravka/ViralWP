@@ -2426,11 +2426,11 @@ h3.entry-title a:hover {
 }
 /* Preloader */
 
-body.scroll-disable {
+/* body.scroll-disable {
 	max-height: 100vh!important;
 	overflow-y: hidden;
 	background: #000!important;
-}
+} */
 
 body #loader {
 	display: -webkit-box;
