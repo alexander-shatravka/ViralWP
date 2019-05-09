@@ -1553,7 +1553,7 @@ function initIntroVideo() {
 	jQuery('#intro-video').prepend('<video autoplay="autoplay" loop muted playsinline><source src="https://viral.com.ua/wp-content/uploads/2019/04/VIRAL-MosCatalogue.net_-4.mp4" type="video/mp4"></video>');
 }
 
-setTimeout(initIntroVideo(),12000)
+// setTimeout(initIntroVideo(),12000)
 
 
 

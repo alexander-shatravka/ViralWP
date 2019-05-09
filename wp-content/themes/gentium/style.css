@@ -3570,6 +3570,8 @@ body.scroll-off{
   .f1 .wpcf7-form {
     padding: 50px 30px 54px;
   }
+	
+	
   .f1 .wpcf7-form h3 {
     font-size: 19px;
     letter-spacing: 0.8px;
@@ -3640,6 +3642,27 @@ body.scroll-off{
 	.f2 .sub-nav {
 		margin: 0;
 		padding: 20px 0;
+	}
+	
+  .f1 .wpcf7-form {
+	  padding: 20px 20px 20px;
+  }
+	.f1 .wpcf7-form textarea {
+		margin-bottom: 20px;
+	}
+	
+	.f1 .wpcf7-form h3{
+		line-height: 1.2;
+		letter-spacing:0;
+	}
+	
+	.order-form-wrapper .wpcf7-form input[type="submit"] {
+		height: 30px;
+		padding-top: 8px;
+	}
+	
+	.f1 .wpcf7-form input[type="email"], .f1 .wpcf7-form input[type="text"], .f1 .wpcf7-form input[type="phone"] {
+		height: 40px;
 	}
 }
 
@@ -3918,4 +3941,12 @@ body #bingc-passive div.bingc-passive-overlay a.bingc-passive-close-button svg p
 		margin-bottom: 15px;
 	}
 }
+@media only screen and (max-width: 767px) {
+	.intro-section .btn-contact .pr-button {
+		width:305px;
+	}
+}
+
+
+
 
