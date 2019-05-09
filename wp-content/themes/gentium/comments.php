@@ -73,9 +73,9 @@ if ( post_password_required() ) {
 				'comment_notes_after'	=> '',
 				'logged_in_as' 			=> '',
 				'comment_notes_before' 	=> '',
-				'title_reply'			=> esc_attr__('Leave a Reply', 'gentium'),
-				'cancel_reply_link'		=> esc_attr__('Cancel Reply', 'gentium'),
-				'label_submit'			=> esc_attr__('Post Comment', 'gentium'),
+				'title_reply'			=> esc_attr__('Оставить комментарий', 'gentium'),
+				'cancel_reply_link'		=> esc_attr__('Отменить комментарий', 'gentium'),
+				'label_submit'			=> esc_attr__('Опубликовать комментарий', 'gentium'),
 				'fields' => $cmnt_fields,
 			));
 		?>
