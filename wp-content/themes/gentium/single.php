@@ -53,16 +53,16 @@ get_header(); ?>
                             <div class="post-enty-meta">
                                 <ul class="content uk-list uk-list-divider">
                                     <li class="author">
-                                        <strong><?php esc_html_e( 'Written by:', 'gentium' ); ?></strong>
+                                        <strong><?php esc_html_e( 'Автор:', 'gentium' ); ?></strong>
                                         <span><?php the_author(); ?></span>
                                     </li>
                                     <li class="date">
-                                        <strong><?php esc_html_e( 'Posted on:', 'gentium' ); ?></strong>
+                                        <strong><?php esc_html_e( 'Опубликовано:', 'gentium' ); ?></strong>
                                         <span><?php echo get_the_date(); ?></span>
                                     </li>
                                     <?php if(has_tag()) { ?>
                                         <li class="tags">
-                                            <strong><?php esc_html_e( 'Tags:', 'gentium' ); ?></strong>
+                                            <strong><?php esc_html_e( 'Метки:', 'gentium' ); ?></strong>
                                             <span><?php the_tags('',', ',''); ?></span>
                                         </li>
                                     <?php } ?>
