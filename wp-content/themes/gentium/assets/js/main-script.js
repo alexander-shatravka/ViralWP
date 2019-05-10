@@ -71,7 +71,9 @@
     
     // Smooth scrolling
     scrollLink.click(function(e) {
-		// e.preventDefault();
+        if(jQuery(this).attr('href')=='#footer'){
+            e.preventDefault();
+        }   
         $('body,html').animate({
             scrollTop: $(this.hash).offset().top-68
         }, 800, 'easeInExpo' );

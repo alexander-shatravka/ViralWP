@@ -56,7 +56,7 @@ if(!function_exists('pixe_pagination')){
  
 			// don't display the button if there are not enough posts
 			if (  $wp_query->max_num_pages > 1 )
-				echo '<a id="load-more-archives" class="container-wrapper loadMore"><span class="text">'. esc_html__( 'Load More Posts', 'gentium') .'</span><span class="spinner"></span></a>'; // you can use <a> as well
+				echo '<a id="load-more-archives" class="container-wrapper loadMore"><span class="text">'. esc_html__( 'Больше статей', 'gentium') .'</span><span class="spinner"></span></a>'; // you can use <a> as well
         }
     }
 }
