@@ -71,7 +71,7 @@
     
     // Smooth scrolling
     scrollLink.click(function(e) {
-        if(jQuery(this).href('#footer')){
+        if(jQuery(this).attr('href')=='#footer'){
             e.preventDefault();
         }   
         $('body,html').animate({
