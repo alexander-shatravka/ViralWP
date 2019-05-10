@@ -3971,6 +3971,15 @@ body #bingc-passive div.bingc-passive-overlay a.bingc-passive-close-button svg p
 	}
 }
 
+.page-404-content {
+	margin-top: -50px;
+	height: calc(100vh + 50px);
+}
+
 .error-404.not-found .page-header h1{
 	color: #7D7D7D;
+}
+
+.error-404.not-found .page-header span{
+	line-height: 1.0;
 }
