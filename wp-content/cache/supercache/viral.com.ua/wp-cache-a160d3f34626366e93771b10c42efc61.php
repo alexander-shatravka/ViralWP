@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<?php die(); ?>﻿<!DOCTYPE html>
 <html lang="ru-RU" prefix="og: http://ogp.me/ns#">
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -44,6 +44,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <title>Viral digital agency - Viral</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v10.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- Заметка для администратора: на этой странице не отображается мета-описание, потому что оно не задано. Укажите его для данной страницы, либо перейдите в меню [SEO - Отображение в поисковой выдаче] и настройте шаблон. -->
 <meta name="robots" content="noindex,follow"/>
 <meta property="og:locale" content="ru_RU" />
 <meta property="og:type" content="website" />
@@ -77,9 +78,12 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='https://viral.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-style-css'  href='https://viral.com.ua/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.1.2' type='text/css' media='all' />
+	<link rel='stylesheet' id='dashicons-css'  href='https://viral.com.ua/wp-includes/css/dashicons.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://viral.com.ua/wp-includes/css/admin-bar.min.css?ver=5.1.1' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css'  href='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css'  href='https://viral.com.ua/wp-content/plugins/elementor/assets/css/common.min.css?ver=2.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://viral.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='https://viral.com.ua/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.1.2' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-animations-css'  href='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.5.12' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'  href='https://viral.com.ua/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.5.12' type='text/css' media='all' />
@@ -93,6 +97,8 @@ img.emoji {
 <link rel='stylesheet' id='elementor-post-683-css'  href='https://viral.com.ua/wp-content/uploads/elementor/css/post-683.css?ver=1557473358' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-783-css'  href='https://viral.com.ua/wp-content/uploads/elementor/css/post-783.css?ver=1554877655' type='text/css' media='all' />
 <link rel='stylesheet' id='pixe-main-style-css'  href='https://viral.com.ua/wp-content/themes/gentium/style.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='duplicate-post-css'  href='https://viral.com.ua/wp-content/plugins/duplicate-post/duplicate-post.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='yoast-seo-adminbar-css'  href='https://viral.com.ua/wp-content/plugins/wordpress-seo/css/dist/adminbar-1013.min.css?ver=10.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='kirki-styles-gentium-css'  href='https://viral.com.ua/wp-content/plugins/pixerex-core/plugins/customizer/assets/css/kirki-styles.css?ver=3.0.35.3' type='text/css' media='all' />
 <style id='kirki-styles-gentium-inline-css' type='text/css'>
 .breadcrumbs a,.comment-list .reply a:hover,.custom-pagination .page-numbers.current,.nav-links a:hover,.single-post .post-enty-meta .tags a:hover,.single-post-content .post-enty-meta strong,.woocommerce .star-rating,.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,.woocommerce li.product .price a:hover,a.loadMore:hover,a.loadMore:hover .text,h3.entry-title a:hover{color:#cc0000;}#respond #submit,#respond input#submit:hover,.custom-pagination .page-numbers.current,.page-numbers:hover,a.loadMore,a.loadMore:hover,h5,input[type="reset"],input[type="submit"]{border-color:#cc0000;}#respond #submit:hover,.pixe-split-pages>span,.woocommerce #respond input#submit,.woocommerce #respond input#submit.alt,.woocommerce #respond input#submit:hover,.woocommerce .added_to_cart,.woocommerce a.button,.woocommerce a.button.alt,.woocommerce a.button.alt:hover,.woocommerce a.button:hover,.woocommerce button.button,.woocommerce button.button.alt,.woocommerce button.button.alt:hover,.woocommerce button.button:hover,.woocommerce input.button,.woocommerce input.button.alt,.woocommerce input.button.alt:hover,.woocommerce input.button:hover,.woocommerce span.onsale,.woocommerce ul.products li.product .onsale,body #loader .loading .progress .bar-loading,input[type="reset"]:hover,input[type="submit"]:hover{background-color:#cc0000;}.spinner:after{border-top-color:#cc0000;}body{background-color:#ffffff;}.post-enty-meta .tags a,.woocommerce div.product p.price,.woocommerce div.product span.price,.woocommerce ul.products li.product .price,body{color:#747474;}#respond #submit,.comment-list .author a,.comment-list .reply a,.custom-pagination .page-numbers,.form-row label,.meta-share a,.nav-links a,.woocommerce .cart_item .product-name a,.woocommerce .woocommerce-MyAccount-navigation-link.is-active a,.woocommerce div.product .woocommerce-tabs ul.tabs li a,.woocommerce div.product p.price ins,.woocommerce div.product span.price ins,.woocommerce ul.products li.product .price ins,a.loadMore .text,blockquote>p,h1,h1.site-title a,h2,h3,h3.entry-title,h3.entry-title a,h4,h5,input[type="reset"],input[type="submit"],strong{color:#101010;}a{color:#cc0000;}a:hover{color:#cc0000;}.pixe_header_holder .pr-site-branding, .pixe_header_holder .header-wrap .branding{max-width:172px;}.mobile-logo, .page-mobile-menu-logo >a{max-width:120px;}#mobile-header{background-color:#000000;}#mobile-header .toggle-icon i,.mobile-logo h1.site-title a{color:#ffffff;}.uk-offcanvas-bar{background-color:#000000;}.pr__mobile__nav .menu ul li a,.pr__mobile__nav .ul-menu li.menu-item-has-children>a:after,button.uk-offcanvas-close.uk-close.uk-icon{color:#ffffff;}.pr__mobile__nav .menu ul li a:focus,.pr__mobile__nav .menu ul li a:hover{color:#cc0000;}.section-title.thumbnail-bg::before{background-color:rgba(0,0,0,0.9);}.section-title.thumbnail-bg{padding-top:200px;padding-bottom:70px;}.section-title .entry-title{color:#ffffff;margin-bottom:26px;font-family:Poppins, Helvetica, Arial, sans-serif;font-size:42px;font-weight:700;letter-spacing:0px;line-height:47px;text-transform:none;}hr.pr-page-title-hr{background-color:#e9204f;width:70px;height:2px;margin-bottom:40px;}.breadcrumbs > span,.breadcrumbs > span > a{color:#e9204f;}.breadcrumbs > span,span.breadcrumbs__separator:before{color:#ffffff;}.breadcrumbs,.breadcrumbs a{font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;font-size:16px;font-weight:700;letter-spacing:0px;line-height:1.5;text-transform:uppercase;}body,input,select,textarea{font-family:"Roboto Condensed", Helvetica, Arial, sans-serif;font-size:17px;font-weight:400;line-height:1.5;}.read-more a,.single-post-heade-content .entry-title,blockquote>p,h1,h2,h3,h4,h5,h6{font-family:Poppins, Helvetica, Arial, sans-serif;font-weight:700;letter-spacing:-.04em;}h1{font-size:42px;}h2{font-size:28px;}h3{font-size:22px;}h4{font-size:18px;}h5{font-size:14px;}h6{font-size:12px;}.pixe-single-post-header-full:before{background:rgba(0,0,0,0.9);}.pixe-single-post-header-full{padding-top:250px;padding-bottom:80px;}.single-post-heade-content .entry-title{color:#ffffff;font-size:48px;}.single-post-heade-content .category,.single-post-heade-content .category a{color:#ffffff;}.single-post-heade-content .category a{font-size:14px;}
@@ -102,7 +108,7 @@ img.emoji {
 <script type='text/javascript' src='https://viral.com.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var userSettings = {"url":"\/","uid":"0","time":"1557478877","secure":"1"};
+var userSettings = {"url":"\/","uid":"1","time":"1557478918","secure":"1"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://viral.com.ua/wp-includes/js/utils.min.js?ver=5.1.1'></script>
@@ -114,7 +120,16 @@ var userSettings = {"url":"\/","uid":"0","time":"1557478877","secure":"1"};
 <link rel="alternate" type="application/json+oembed" href="https://viral.com.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fviral.com.ua%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://viral.com.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fviral.com.ua%2F&#038;format=xml" />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		<link rel="icon" href="https://viral.com.ua/wp-content/uploads/2019/05/favicon.ico" sizes="32x32" />
+		<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="https://viral.com.ua/wp-content/uploads/2019/05/favicon.ico" sizes="32x32" />
 <link rel="icon" href="https://viral.com.ua/wp-content/uploads/2019/05/favicon.ico" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="https://viral.com.ua/wp-content/uploads/2019/05/favicon.ico" />
 <meta name="msapplication-TileImage" content="https://viral.com.ua/wp-content/uploads/2019/05/favicon.ico" />
@@ -122,7 +137,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1557478877","secure":"1"};
 											</style>
 		</head>
 
-<body class="home page-template-default page page-id-683 wp-custom-logo ehf-header ehf-template-gentium ehf-stylesheet-gentium elementor-default elementor-page elementor-page-683">
+<body class="home page-template-default page page-id-683 logged-in admin-bar no-customize-support wp-custom-logo ehf-header ehf-template-gentium ehf-stylesheet-gentium elementor-default elementor-page elementor-page-683">
 	<div id="shadow-bg"></div>
 	<div class="order-form-wrapper f1">
 		<div class="wpcf7">
@@ -298,7 +313,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>		</div>
 	    	</header>
 <header id="mobile-header" class="uk-hidden@l"
-     data-uk-sticky="top: 100vh; animation: uk-animation-slide-top; "
+     data-uk-sticky="top: 100vh; animation: uk-animation-slide-top; offset: 32;"
 >
     <div class="page-mobile-header">
         <div class="uk-container">
@@ -1507,6 +1522,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 </footer>
 <!-- /end HFCM by 99 Robots -->
+<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Пропустить</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Закрыть"></i>
+				<span class="elementor-screen-only">Закрыть</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Введите чтобы найти в Elementor">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">Результатов не найдено</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
 <link rel='stylesheet' id='elementor-post-104-css'  href='https://viral.com.ua/wp-content/uploads/elementor/css/post-104.css?ver=1555684150' type='text/css' media='all' />
 <script type='text/javascript' src='https://viral.com.ua/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
 <script type='text/javascript'>
@@ -1515,6 +1591,7 @@ var commonL10n = {"warnDelete":"\u0412\u044b \u0441\u043e\u0431\u0438\u0440\u043
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://viral.com.ua/wp-admin/js/common.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/admin-bar.min.js?ver=5.1.1'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/themes/gentium/assets/js/libs.js?ver=1.0'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/themes/gentium/assets/js/anime.min.js?ver=2.2'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/themes/gentium/assets/js/jquery.easing.js?ver=1.3'></script>
@@ -1527,6 +1604,21 @@ var pixe_loadmore = {"ajaxurl":"https:\/\/viral.com.ua\/wp-admin\/admin-ajax.php
 <script type='text/javascript' src='https://viral.com.ua/wp-content/themes/gentium/assets/js/load-more.js?ver=1.0'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/themes/gentium/assets/js/main-script.js?ver=1.0'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/themes/gentium/assets/js/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/js/common-modules.js?ver=2.5.12'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.1'></script>
+<script type='text/javascript'>
+var elementorCommonConfig = {"version":"2.5.12","isRTL":false,"activeModules":["ajax","finder","connect"],"urls":{"assets":"https:\/\/viral.com.ua\/wp-content\/plugins\/elementor\/assets\/"},"ajax":{"url":"https:\/\/viral.com.ua\/wp-admin\/admin-ajax.php","nonce":"b283a68aa8"},"finder":{"data":{"edit":{"title":"\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c","dynamic":true,"name":"edit"},"general":{"title":"\u041e\u0431\u0449\u0438\u0435","dynamic":false,"items":{"saved-templates":{"title":"\u0421\u043e\u0445\u0440\u0430\u043d\u0451\u043d\u043d\u044b\u0435 \u0448\u0430\u0431\u043b\u043e\u043d\u044b","icon":"library-save","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"\u0421\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043e \u0441\u0438\u0441\u0442\u0435\u043c\u0435","icon":"info","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"\u041c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u0440\u043e\u043b\u0435\u0439","icon":"person","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"\u0411\u0430\u0437\u0430 \u0437\u043d\u0430\u043d\u0438\u0439","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"popups":{"title":"\u041f\u043e\u043f\u0430\u043f\u044b","icon":"library-save","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=popup&elementor_library_type=popup","keywords":["template","popup","library"]},"theme-builder":{"title":"\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0442\u0435\u043c\u044b","icon":"library-save","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme","keywords":["template","header","footer","single","archive","search","404","library"]}},"name":"general"},"create":{"title":"\u0421\u043e\u0437\u0434\u0430\u0442\u044c","dynamic":false,"items":{"post":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u041d\u043e\u0432\u044b\u0439 \u0417\u0430\u043f\u0438\u0441\u044c","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&_wpnonce=07b4d031c2","keywords":["post","page","template","new","create"]},"page":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u041d\u043e\u0432\u044b\u0439 \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&_wpnonce=07b4d031c2","keywords":["post","page","template","new","create"]},"portfolio":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u041d\u043e\u0432\u044b\u0439 Portfolio","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?action=elementor_new_post&post_type=portfolio&_wpnonce=07b4d031c2","keywords":["post","page","template","new","create"]},"elementor_library":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u041d\u043e\u0432\u044b\u0439 \u0428\u0430\u0431\u043b\u043e\u043d","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?post_type=elementor_library#add_new","keywords":["post","page","template","new","create"]},"pixe_templates":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u041d\u043e\u0432\u044b\u0439 Template","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?action=elementor_new_post&post_type=pixe_templates&_wpnonce=07b4d031c2","keywords":["post","page","template","new","create"]},"elementor-hf":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u041d\u043e\u0432\u044b\u0439 Elementor Header Footer","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor-hf&_wpnonce=07b4d031c2","keywords":["post","page","template","new","create"]},"popups":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0439 \u043f\u043e\u043f\u0430\u043f","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=popup&elementor_library_type=popup#add_new","keywords":["template","theme","popup","new","create"]},"theme-template":{"title":"\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0439 \u0448\u0430\u0431\u043b\u043e\u043d \u0442\u0435\u043c\u044b","icon":"plus-circle","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme#add_new","keywords":["template","theme","new","create"]}},"name":"create"},"site":{"title":"\u0421\u0430\u0439\u0442","dynamic":false,"items":{"homepage":{"title":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","url":"https:\/\/viral.com.ua","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"\u041a\u043e\u043d\u0441\u043e\u043b\u044c","icon":"dashboard","url":"https:\/\/viral.com.ua\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"\u041c\u0435\u043d\u044e","icon":"wordpress","url":"https:\/\/viral.com.ua\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"\u0422\u0435\u043c\u044b","icon":"wordpress","url":"https:\/\/viral.com.ua\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u0449\u0438\u043a","icon":"wordpress","url":"https:\/\/viral.com.ua\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"\u041f\u043b\u0430\u0433\u0438\u043d\u044b","icon":"wordpress","url":"https:\/\/viral.com.ua\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438","icon":"wordpress","url":"https:\/\/viral.com.ua\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438","dynamic":false,"items":{"general-settings":{"title":"\u041e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"style":{"title":"\u0421\u0442\u0438\u043b\u044c","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor#tab-style","keywords":["style","settings","elementor"]},"advanced":{"title":"\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0435","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"custom-fonts":{"title":"\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0448\u0440\u0438\u0444\u0442\u044b","url":"https:\/\/viral.com.ua\/wp-admin\/edit.php?post_type=elementor_font","keywords":["custom","fonts","elementor"]}},"name":"settings"},"tools":{"title":"\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b","dynamic":false,"items":{"tools":{"title":"\u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b","icon":"tools","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"\u0421\u043c\u0435\u043d\u0438\u0442\u044c URL","icon":"tools","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"version-control":{"title":"\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0432\u0435\u0440\u0441\u0438\u0439","icon":"time-line","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]},"maintenance-mode":{"title":"\u0420\u0435\u0436\u0438\u043c \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f","icon":"tools","url":"https:\/\/viral.com.ua\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]}},"name":"tools"}},"i18n":{"finder":"Finder"}},"connect":[]};
+</script>
+<script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/js/common.min.js?ver=2.5.12'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/pixerex-core/plugins/customizer/modules/webfont-loader/vendor-typekit/webfontloader.js?ver=3.0.28'></script>
 <script type='text/javascript'>
@@ -1536,18 +1628,41 @@ WebFont.load({google:{families:['Poppins:700:cyrillic,cyrillic-ext,devanagari,gr
 <script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.5.12'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.5.3'></script>
 <script type='text/javascript'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/viral.com.ua\/wp-admin\/admin-ajax.php","nonce":"326a536b39","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"ru_RU","app_id":""}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/viral.com.ua\/wp-admin\/admin-ajax.php","nonce":"4f02f8bad9","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"ru_RU","app_id":""}};
 </script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.5.3'></script>
-<script type='text/javascript' src='https://viral.com.ua/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.1'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6'></script>
 <script type='text/javascript'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.5.12","urls":{"assets":"https:\/\/viral.com.ua\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":683,"title":"Viral digital agency","excerpt":"\n\t\t\t\t\t\t"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.5.12","urls":{"assets":"https:\/\/viral.com.ua\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":683,"title":"Viral digital agency","excerpt":"\n\t\t\t\t\t\t"},"user":{"roles":["administrator"]}};
 </script>
 <script type='text/javascript' src='https://viral.com.ua/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.5.12'></script>
-    </div>
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain)
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Перейти к верхней панели</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Верхняя панель">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://viral.com.ua/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">О WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://viral.com.ua/wp-admin/about.php'>О WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://ru.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/Заглавная_страница'>Документация</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://ru.wordpress.org/support/'>Форумы поддержки</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://ru.wordpress.org/support/forum/requests-and-feedback/'>Обратная связь</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://viral.com.ua/wp-admin/'>Viral</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://viral.com.ua/wp-admin/'>Консоль</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://viral.com.ua/wp-admin/themes.php'>Темы</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://viral.com.ua/wp-admin/widgets.php'>Виджеты</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://viral.com.ua/wp-admin/nav-menus.php'>Меню</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='https://viral.com.ua/wp-admin/themes.php?page=custom-background'>Фон</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='https://viral.com.ua/wp-admin/themes.php?page=custom-header'>Заголовок</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://viral.com.ua/wp-admin/customize.php?url=https%3A%2F%2Fviral.com.ua%2F'>Настроить</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://viral.com.ua/wp-admin/update-core.php' title='5 обновлений плагинов, 3 обновления тем'><span class="ab-icon"></span><span class="ab-label">8</span><span class="screen-reader-text">5 обновлений плагинов, 3 обновления тем</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://viral.com.ua/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 комментариев ожидают проверки</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://viral.com.ua/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">Добавить</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://viral.com.ua/wp-admin/post-new.php'>Запись</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://viral.com.ua/wp-admin/media-new.php'>Медиафайл</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://viral.com.ua/wp-admin/post-new.php?post_type=page'>Страницу</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='https://viral.com.ua/wp-admin/post-new.php?post_type=elementor_library'>Шаблон</a></li><li id='wp-admin-bar-new-portfolio'><a class='ab-item' href='https://viral.com.ua/wp-admin/post-new.php?post_type=portfolio'>Portfolio</a></li><li id='wp-admin-bar-new-pixe_templates'><a class='ab-item' href='https://viral.com.ua/wp-admin/post-new.php?post_type=pixe_templates'>Template</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://viral.com.ua/wp-admin/user-new.php'>Пользователя</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://viral.com.ua/wp-admin/post.php?post=683&#038;action=edit'>Редактировать страницу</a></li><li id='wp-admin-bar-wpseo-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_dashboard'><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div><div class="wpseo-score-icon adminbar-seo-score na"><span class="adminbar-seo-score-text screen-reader-text">Оценка SEO: Недоступен</span></div></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-menu-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-configuration-wizard'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_configurator'>Мастер настройки</a></li><li id='wp-admin-bar-wpseo-kwresearch' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">Исследование ключевых слов</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-kwresearch-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-kwresearchtraining'><a class='ab-item' href='https://yoa.st/wp-admin-bar?php_version=5.6&#038;platform=wordpress&#038;platform_version=5.1.1&#038;software=free&#038;software_version=10.1.3&#038;days_active=30' target='_blank'>Тренинг по ключевым словам</a></li><li id='wp-admin-bar-wpseo-adwordsexternal'><a class='ab-item' href='https://yoa.st/keywordplanner' target='_blank'>Google Ads</a></li><li id='wp-admin-bar-wpseo-googleinsights'><a class='ab-item' href='https://yoa.st/google-trends' target='_blank'>Google тренды</a></li></ul></div></li><li id='wp-admin-bar-wpseo-analysis' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">Проанализировать эту страницу</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-analysis-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-inlinks'><a class='ab-item' href='https://search.google.com/search-console/links/drilldown?resource_id=https%3A%2F%2Fviral.com.ua&#038;type=EXTERNAL&#038;target=https%3A%2F%2Fviral.com.ua%2F&#038;domain=' target='_blank'>Проверить ссылки на этот URL</a></li><li id='wp-admin-bar-wpseo-kwdensity'><a class='ab-item' href='http://www.zippy.co.uk/keyworddensity/index.php?url=https%3A%2F%2Fviral.com.ua%2F&#038;keyword=' target='_blank'>Проверить плотность ключевых слов</a></li><li id='wp-admin-bar-wpseo-cache'><a class='ab-item' href='//webcache.googleusercontent.com/search?strip=1&#038;q=cache:https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Проверить кэш Google </a></li><li id='wp-admin-bar-wpseo-header'><a class='ab-item' href='//quixapp.com/headers/?r=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Проверить Заголовки</a></li><li id='wp-admin-bar-wpseo-structureddata'><a class='ab-item' href='https://search.google.com/structured-data/testing-tool#url=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Google Структурированные данные теста</a></li><li id='wp-admin-bar-wpseo-facebookdebug'><a class='ab-item' href='//developers.facebook.com/tools/debug/og/object?q=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Отладчик Facebook</a></li><li id='wp-admin-bar-wpseo-pinterestvalidator'><a class='ab-item' href='https://developers.pinterest.com/tools/url-debugger/?link=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Валидатор Pinterest Rich Pins</a></li><li id='wp-admin-bar-wpseo-htmlvalidation'><a class='ab-item' href='//validator.w3.org/check?uri=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Валидатор HTML</a></li><li id='wp-admin-bar-wpseo-cssvalidation'><a class='ab-item' href='//jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Валидатор CSS</a></li><li id='wp-admin-bar-wpseo-pagespeed'><a class='ab-item' href='//developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Тест скорости загрузки страницы от Google</a></li><li id='wp-admin-bar-wpseo-google-mobile-friendly'><a class='ab-item' href='https://www.google.com/webmasters/tools/mobile-friendly/?url=https%3A%2F%2Fviral.com.ua%2F' target='_blank'>Тестирование использования на мобильных устройствах</a></li></ul></div></li><li id='wp-admin-bar-wpseo-settings' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true">Настройки SEO</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-settings-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-general'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_dashboard'>Общие</a></li><li id='wp-admin-bar-wpseo-titles'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_titles'>Отображение в поисковой выдаче</a></li><li id='wp-admin-bar-wpseo-search-console'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_search_console'>Консоль поиска</a></li><li id='wp-admin-bar-wpseo-social'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_social'>Социальные сети</a></li><li id='wp-admin-bar-wpseo-tools'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_tools'>Инструменты</a></li><li id='wp-admin-bar-wpseo-licenses'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_licenses'>Премиум</a></li><li id='wp-admin-bar-wpseo-courses'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?page=wpseo_courses'>Курсы</a></li></ul></div></li></ul></div></li><li id='wp-admin-bar-delete-cache'><a class='ab-item' href='https://viral.com.ua/wp-admin/index.php?action=delcachepage&#038;path=%2F&#038;_wpnonce=8034b02438' title='Удалить кеш для текущей страницы'>Удалить весь кэш</a></li><li id='wp-admin-bar-elementor_edit_page' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://viral.com.ua/wp-admin/post.php?post=683&#038;action=elementor'>Редактировать в Elementor</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-elementor_edit_page-default' class="ab-submenu"><li id='wp-admin-bar-elementor_edit_doc_104'><a class='ab-item' href='https://viral.com.ua/wp-admin/post.php?post=104&#038;action=elementor'><span class="elementor-edit-link-title">Sticky Header</span><span class="elementor-edit-link-type">Страница</span></a></li></ul></div></li><li id='wp-admin-bar-pwa_menu_bar' class="menupop pwa-toolbar-page"><a class='ab-item' aria-haspopup="true" href='https://viral.com.ua/wp-admin/options-general.php?page=pwa-settings'>Protect WP Admin</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-pwa_menu_bar-default' class="ab-submenu"><li id='wp-admin-bar-pwa-second-sub-item' class="pwa_menu_item_class"><a class='ab-item' href='https://viral.com.ua/wp-admin/options-general.php?page=pwa-settings' target='_self' title='Настройки'>Settings</a></li></ul></div></li><li id='wp-admin-bar-new_draft'><a class='ab-item' href='https://viral.com.ua/wp-admin/admin.php?action=duplicate_post_save_as_new_post_draft&#038;post=683&#038;_wpnonce=8454f3ec68'>Копировать в новый черновик</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://viral.com.ua/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Поиск</label><input type="submit" class="adminbar-button" value="Поиск"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://viral.com.ua/wp-admin/profile.php'>Привет, <span class="display-name">viral</span><img alt='' src='https://secure.gravatar.com/avatar/6b92c7c1712f35dcd46e9ca80b9e0be2?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6b92c7c1712f35dcd46e9ca80b9e0be2?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://viral.com.ua/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/6b92c7c1712f35dcd46e9ca80b9e0be2?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/6b92c7c1712f35dcd46e9ca80b9e0be2?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>viral</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://viral.com.ua/wp-admin/profile.php'>Изменить профиль</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://viral.com.ua/wp-login.php?action=logout&#038;_wpnonce=daf7ca2104'>Выйти</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://viral.com.ua/wp-login.php?action=logout&#038;_wpnonce=daf7ca2104">Выйти</a>
+					</div>
+
+		    </div>
 <!-- <script type="text/javascript" src="//cdn.callbackhunter.com/cbh.js?hunter_code=2d7f8d4b138608b2be534f97f9e62229" charset="UTF-8"></script> -->
 <script type="text/javascript" id="meedget_script" src="https://meedget.ru/js/client.min.js?meedget_id=7124"></script>
 <script type="text/javascript">
@@ -1561,7 +1676,5 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </body>
 </html>
 
-<!-- Dynamic page generated in 3.588 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2019-05-10 12:01:20 -->
-
-<!-- super cache -->
+<!-- Dynamic page generated in 3.965 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-05-10 12:02:01 -->

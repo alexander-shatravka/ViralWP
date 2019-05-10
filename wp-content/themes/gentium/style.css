@@ -2677,6 +2677,12 @@ section:before {
 	display: none!important;
 }
 
+@media only screen and (max-width: 1024px) {
+	#main-services {
+		max-height: 435px!important
+	}
+}
+
 
 @media only screen and (max-width: 767px) {
 	#main-services {
@@ -2872,6 +2878,12 @@ section:before {
 
 .f1 .footer-txt .text p {
 	margin: 0 0 25px;
+}
+
+@media only screen and (max-width: 1024px) {
+	.f1 .footer-txt .text .instalink  {
+		margin: 0 auto;
+	}
 }
 
 .f1 .footer-txt p {
@@ -3945,7 +3957,21 @@ body #bingc-passive div.bingc-passive-overlay a.bingc-passive-close-button svg p
 	.intro-section .btn-contact .pr-button {
 		width:305px;
 	}
+	
+	section.elementor-motion-effects-element-type-background {
+		margin-bottom: 60px!important;	
+		padding-top: 30px!important;
+		padding-bottom: 30px!important;
+	}
 }
+
+@media only screen and (max-width: 1024px) {
+	.elementor-counter-number-wrapper {
+		font-size: 40px!important;
+	}
+}
+
+
 
 
 
