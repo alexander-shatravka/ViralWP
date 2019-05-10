@@ -71,11 +71,9 @@
     
     // Smooth scrolling
     scrollLink.click(function(e) {
-        if(e.id == 'menu-item-472'){
+        if(jQuery(this).href('#footer')){
             e.preventDefault();
-            alert('1');
-        }
-		// e.preventDefault();
+        }   
         $('body,html').animate({
             scrollTop: $(this.hash).offset().top-68
         }, 800, 'easeInExpo' );
