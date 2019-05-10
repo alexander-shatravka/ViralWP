@@ -2450,7 +2450,7 @@ body #loader {
 	z-index: 999999;
 	overflow: hidden;
 	/* position: relative; */
-/* 	display: none!important; */
+	display: none!important;
 }
 body #loader .loading {
 	font-weight: 800;
