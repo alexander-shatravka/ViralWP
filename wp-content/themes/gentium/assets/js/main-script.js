@@ -73,6 +73,7 @@
     scrollLink.click(function(e) {
         if(e.id == 'menu-item-472'){
             e.preventDefault();
+            alert('1');
         }
 		// e.preventDefault();
         $('body,html').animate({
