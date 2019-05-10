@@ -71,6 +71,9 @@
     
     // Smooth scrolling
     scrollLink.click(function(e) {
+        if(e.id == 'menu-item-472'){
+            e.preventDefault();
+        }
 		// e.preventDefault();
         $('body,html').animate({
             scrollTop: $(this.hash).offset().top-68
