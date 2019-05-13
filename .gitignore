@@ -1,4 +1,5 @@
 /wp-content/updraft/*
+/wp-content/cache/*
 /wp-snapshots/
 /web/.htaccess
 /wp-config.php
