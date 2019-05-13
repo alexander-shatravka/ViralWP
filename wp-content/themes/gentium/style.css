@@ -3983,3 +3983,12 @@ body #bingc-passive div.bingc-passive-overlay a.bingc-passive-close-button svg p
 .error-404.not-found .page-header span{
 	line-height: 1.0;
 }
+
+.client-slider  .elementor-image {
+	height: 50px!important;
+	display: flex!important;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
