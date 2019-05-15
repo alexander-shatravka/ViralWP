@@ -16,13 +16,13 @@ get_header(); ?>
                     <div class="error-404 not-found">
                         <header class="page-header">
                             <h1 class="page-title"><?php esc_html_e( '404', 'gentium' ); ?></h1>
-                            <span><?php esc_html_e( 'Page Not Found', 'gentium' ); ?></span>
+                            <span><?php esc_html_e( 'Сраница не найдена', 'gentium' ); ?></span>
                         </header>
 
                         <div class="page-content">
-                            <p><?php esc_html_e( 'It looks like nothing was found at this location. try another link or click the button below.', 'gentium' ); ?></p>
+                            <p><?php esc_html_e( 'Похоже что страница с таким адреслм не найдена. Проверьте и исправьте адрес или воспользуйтесь конпкой ниже', 'gentium' ); ?></p>
                             <div class="btn-back">
-                                <a href="<?php echo esc_url(home_url('/')); ?>"><?php echo esc_html_e('BACK TO HOME','gentium');?></a>
+                                <a href="<?php echo esc_url(home_url('/')); ?>"><?php echo esc_html_e('ВЕРНУТЬСЯ ДОМОЙ','gentium');?></a>
                             </div>
                         </div>
                     </div>

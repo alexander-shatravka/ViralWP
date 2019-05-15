@@ -60,7 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="order-form-wrapper f1">
 		<div class="wpcf7">
 			<form id='order-form' class="wpcf7-form f-contact-form">
-				<div class="btn-form-close"><img src="wp-content/uploads/2019/04/close-icon-dk.svg" alt=""></div>
+				<div class="btn-form-close"><img src="<?php echo get_home_url(); ?>/wp-content/uploads/2019/04/close-icon-dk.svg" alt=""></div>
 				<h3>Узнай о наших предложениях недели! Просто оставь свои контакты</h3>
 				<div class="rows">
 					<span class="wpcf7-form-control-wrap text-field-required">
