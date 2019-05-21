@@ -187,8 +187,8 @@ function formValidation() {
 		}
 }
 function initFormValidation() {
-	jQuery('#submit').click(function () {initFormValidation()});
-	jQuery('input[name=orderName], input[name=orderEmail], input[name=orderPhone], textarea[name=orderMessage]').change(function(){initFormValidation()});
+	jQuery('#submit').click(function (){formValidation()});
+	jQuery('input[name=orderName], input[name=orderEmail], input[name=orderPhone], textarea[name=orderMessage]').change(function(){formValidation()});
 }
 
 function initAjaxForm(){
