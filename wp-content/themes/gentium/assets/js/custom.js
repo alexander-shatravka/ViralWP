@@ -171,16 +171,6 @@ function formValidation() {
             returnError = true;
         } else tel.removeClass('error');
 
-        if (email.val()=='') {
-            email.addClass('error');
-            returnError = true;
-        } else email.removeClass('error');
-
-        if (comment.val()=='') {
-            comment.addClass('error');
-            returnError = true;
-        } else comment.removeClass('error');
-
         // Highlight all error fields, then quit.
         if(returnError == true) {
             return false;	
