@@ -192,7 +192,6 @@ function initFormValidation() {
 }
 
 function initAjaxForm(){
-	e.preventDefault();
 	var errors = jQuery('#order-form .error');
 	if(errors.length){
 		return false;
