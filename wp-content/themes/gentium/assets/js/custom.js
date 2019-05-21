@@ -190,7 +190,7 @@ function initFormValidation() {
         if(returnError == true) {
             return false;	
 		}
-	}
+	})
 }
 
 function initAjaxForm(){
