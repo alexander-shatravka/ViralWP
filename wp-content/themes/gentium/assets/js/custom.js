@@ -5,7 +5,8 @@ jQuery(document).ready(function(){
     initJcf();
     initSlickSliders();
     initFormPopup();
-    initServiceFormPopup();
+	initServiceFormPopup();
+	nitFormValidation();
     initAjaxForm();
     removeLoaderIfNotFound();
 })
@@ -151,7 +152,53 @@ function initServiceFormPopup(){
 	});
 }
 
+function initFormValidation() {
+	//if submit button is clicked
+	$('#submit,#submit2').click(function () {
+
+        //Get the data from all the fields
+        var name = $(this).parent().find('input[name=orderName]');
+		var email = $(this).parent().find('input[name=orderEmail]');
+		var tel = $(this).parent().find('input[name=orderPhone]');
+        var comment = $(this).parent().find('textarea[name=orderMessage]');
+        var returnError = false;
+
+        //Simple validation to make sure user entered something
+        //Add your own error checking here with JS, but also do some error checking with PHP.
+        //If error found, add hightlight class to the text field
+        if (name.val()=='') {
+            name.addClass('error');
+            returnError = true;
+        } else name.removeClass('error');
+
+		if (tel.val()=='') {
+            tel.addClass('error');
+            returnError = true;
+        } else tel.removeClass('error');
+
+        if (email.val()=='') {
+            email.addClass('error');
+            returnError = true;
+        } else email.removeClass('error');
+
+        if (comment.val()=='') {
+            comment.addClass('error');
+            returnError = true;
+        } else comment.removeClass('error');
+
+        // Highlight all error fields, then quit.
+        if(returnError == true) {
+            return false;	
+		}
+	}
+}
+
 function initAjaxForm(){
+	e.preventDefault();
+	var errors = jQuery('#order-form .error');
+	if(errors.length){
+		return false;
+	}
 	jQuery('.btn-submit-order').on('click', function(e){
 		e.preventDefault();
 		var errors = jQuery('#order-form .error');
