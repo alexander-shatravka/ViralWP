@@ -7,7 +7,7 @@ jQuery(document).ready(function(){
     initFormPopup();
 	initServiceFormPopup();
 	formValidation();
-	nitFormValidation();
+	initFormValidation();
     initAjaxForm();
     removeLoaderIfNotFound();
 })
