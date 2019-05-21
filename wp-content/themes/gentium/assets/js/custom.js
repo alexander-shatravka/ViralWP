@@ -6,6 +6,7 @@ jQuery(document).ready(function(){
     initSlickSliders();
     initFormPopup();
 	initServiceFormPopup();
+	formValidation();
 	nitFormValidation();
     initAjaxForm();
     removeLoaderIfNotFound();
@@ -152,19 +153,13 @@ function initServiceFormPopup(){
 	});
 }
 
-function initFormValidation() {
-	//if submit button is clicked
-	$('#submit,#submit2').click(function () {
-
-        //Get the data from all the fields
-        var name = $(this).parent().find('input[name=orderName]');
-		var email = $(this).parent().find('input[name=orderEmail]');
-		var tel = $(this).parent().find('input[name=orderPhone]');
-        var comment = $(this).parent().find('textarea[name=orderMessage]');
-        var returnError = false;
-
-        //Simple validation to make sure user entered something
-        //Add your own error checking here with JS, but also do some error checking with PHP.
+function formValidation() {
+        var name = jQuery(this).parent().find('input[name=orderName]');
+		var email = jQuery(this).parent().find('input[name=orderEmail]');
+		var tel = jQuery(this).parent().find('input[name=orderPhone]');
+        var comment = jQuery(this).parent().find('textarea[name=orderMessage]');
+		var returnError = false;
+		
         //If error found, add hightlight class to the text field
         if (name.val()=='') {
             name.addClass('error');
@@ -190,7 +185,10 @@ function initFormValidation() {
         if(returnError == true) {
             return false;	
 		}
-	})
+}
+function initFormValidation() {
+	jQuery('#submit').click(function () {initFormValidation()});
+	jQuery('input[name=orderName], input[name=orderEmail], input[name=orderPhone], textarea[name=orderMessage]').change(function(){initFormValidation()});
 }
 
 function initAjaxForm(){
