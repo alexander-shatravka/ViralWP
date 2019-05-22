@@ -153,11 +153,11 @@ function initServiceFormPopup(){
 }
 
 function initformValidation() {
-	jQuery('.btn-submit-order,.btn-submit-order-2,.btn-submit-order-service').click(function (){
-		var name = jQuery(this).parents('.order-form-wrapper').find('input[name=orderName]');
-		alert(name.val());
-		var tel = jQuery(this).parents('.order-form-wrapper').find('input[name=orderPhone]');
-		alert(tel.val());
+	jQuery('.btn-submit-order,.btn-submit-order-2,.btn-submit-order-service').click(function (e){
+
+		e.preventDefault();
+		var name = jQuery(this).parents('.f1').find('input[name=orderName]');
+		var tel = jQuery(this).parents('.f1').find('input[name=orderPhone]');
 	
         //If error found, add hightlight class to the text field
         if (name.val()=='') {
