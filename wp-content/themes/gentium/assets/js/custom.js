@@ -153,7 +153,7 @@ function initServiceFormPopup(){
 }
 
 function initformValidation() {
-	jQuery('.btn-submit-order', '.btn-submit-order-2', '.btn-submit-order-service').click(function (){
+	jQuery('.btn-submit-order,.btn-submit-order-2,.btn-submit-order-service').click(function (){
 		var name = jQuery(this).parents('.order-form-wrapper').find('input[name=orderName]');
 		alert(name.val());
 		var tel = jQuery(this).parents('.order-form-wrapper').find('input[name=orderPhone]');
@@ -168,7 +168,7 @@ function initformValidation() {
             tel.addClass('error');
 		} else tel.removeClass('error');
 	});
-	jQuery('input[name=orderName], input[name=orderEmail], input[name=orderPhone], textarea[name=orderMessage]').change(function(){
+	jQuery('input[name=orderName],input[name=orderEmail],input[name=orderPhone],textarea[name=orderMessage]').change(function(){
 		var name = jQuery(this).parent().find('input[name=orderName]');
 		var tel = jQuery(this).parent().find('input[name=orderPhone]');
 		
