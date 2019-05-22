@@ -1,0 +1,1326 @@
+[INFO]-[2019/05/16 11:20:27] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/05/16 11:20:27] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:27] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/05/16 11:20:27] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:28] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/05/16 11:20:28] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:28] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/05/16 11:20:28] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:28] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2019/05/16 11:20:28] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:28] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2019/05/16 11:20:28] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:29] DB Copy: Creating table wpstg0_hfcm_scripts
+[INFO]-[2019/05/16 11:20:29] DB Copy: wp_hfcm_scripts as wpstg0_hfcm_scripts from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:29] DB Copy: Creating table wpstg0_hfcm_scripts
+[INFO]-[2019/05/16 11:20:29] DB Copy: wp_hfcm_scripts as wpstg0_hfcm_scripts from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:29] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/05/16 11:20:29] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/05/16 11:20:30] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/05/16 11:20:30] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:30] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/05/16 11:20:30] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:30] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/05/16 11:20:30] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:30] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/05/16 11:20:30] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:37] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/05/16 11:20:37] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:37] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/05/16 11:20:37] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:38] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/05/16 11:20:38] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:38] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/05/16 11:20:38] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:39] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/05/16 11:20:39] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:39] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/05/16 11:20:39] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:39] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/05/16 11:20:39] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/05/16 11:20:40] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/05/16 11:20:40] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:40] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/05/16 11:20:40] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:40] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/05/16 11:20:40] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:40] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/05/16 11:20:40] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:41] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/05/16 11:20:41] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:41] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/05/16 11:20:41] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:41] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/05/16 11:20:41] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:41] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/05/16 11:20:41] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:42] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/05/16 11:20:42] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/05/16 11:20:42] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/05/16 11:20:42] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:20:43] DB Processing:  Table wpstg0_commentmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:20:43] DB Processing:  Table wpstg0_commentmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:20:43] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/05/16 11:20:43] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/05/16 11:20:44] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[INFO]-[2019/05/16 11:20:44] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[INFO]-[2019/05/16 11:20:44] DB Processing:  Table wpstg0_hfcm_scripts 0 to 5000 records
+[INFO]-[2019/05/16 11:20:44] DB Processing:  Table wpstg0_hfcm_scripts 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:20:45] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/05/16 11:20:45] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/05/16 11:20:46] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:20:46] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:20:57] DB Processing:  Table wpstg0_postmeta 5000 to 10000 records
+[INFO]-[2019/05/16 11:20:57] DB Processing:  Table wpstg0_postmeta 5000 to 10000 records
+[INFO]-[2019/05/16 11:21:11] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/05/16 11:21:11] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/05/16 11:21:21] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/05/16 11:21:21] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/05/16 11:21:21] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/05/16 11:21:21] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:21:22] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/05/16 11:21:22] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/05/16 11:21:22] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/05/16 11:21:22] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/05/16 11:21:23] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/05/16 11:21:23] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/05/16 11:21:24] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/05/16 11:21:24] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/05/16 11:21:25] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/05/16 11:21:25] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:21:26] Scanning / for files
+[INFO]-[2019/05/16 11:21:26] Scanning / for files
+[INFO]-[2019/05/16 11:21:27] Scanning wp-content folder /home/viral/web/viral.com.ua/public_html/wp-content
+[INFO]-[2019/05/16 11:21:27] Scanning wp-content folder /home/viral/web/viral.com.ua/public_html/wp-content
+[INFO]-[2019/05/16 11:21:29] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/05/16 11:21:29] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/05/16 11:21:30] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/05/16 11:21:30] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/05/16 11:21:31] Copying files...
+[INFO]-[2019/05/16 11:21:31] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip
+[INFO]-[2019/05/16 11:21:31] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-db.gz
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-plugins.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-uploads.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-db.gz
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-uploads.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-plugins.zip
+[INFO]-[2019/05/16 11:21:31] Total 50 files processed
+[INFO]-[2019/05/16 11:21:31] Copying files...
+[INFO]-[2019/05/16 11:21:31] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip
+[INFO]-[2019/05/16 11:21:31] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-db.gz
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-plugins.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-uploads.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-db.gz
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-uploads.zip
+[INFO]-[2019/05/16 11:21:31] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-plugins.zip
+[INFO]-[2019/05/16 11:21:31] Total 50 files processed
+[INFO]-[2019/05/16 11:21:31] Total 100 files processed
+[INFO]-[2019/05/16 11:21:31] Total 100 files processed
+[INFO]-[2019/05/16 11:21:32] Total 150 files processed
+[INFO]-[2019/05/16 11:21:32] Total 150 files processed
+[INFO]-[2019/05/16 11:21:32] Total 200 files processed
+[INFO]-[2019/05/16 11:21:32] Total 200 files processed
+[INFO]-[2019/05/16 11:21:33] Total 250 files processed
+[INFO]-[2019/05/16 11:21:33] Total 250 files processed
+[INFO]-[2019/05/16 11:21:34] Total 300 files processed
+[INFO]-[2019/05/16 11:21:34] Total 300 files processed
+[INFO]-[2019/05/16 11:21:34] Total 350 files processed
+[INFO]-[2019/05/16 11:21:34] Total 350 files processed
+[INFO]-[2019/05/16 11:21:35] Total 400 files processed
+[INFO]-[2019/05/16 11:21:35] Total 400 files processed
+[INFO]-[2019/05/16 11:21:35] Total 450 files processed
+[INFO]-[2019/05/16 11:21:35] Total 450 files processed
+[INFO]-[2019/05/16 11:21:36] Total 500 files processed
+[INFO]-[2019/05/16 11:21:36] Total 500 files processed
+[INFO]-[2019/05/16 11:21:36] Total 550 files processed
+[INFO]-[2019/05/16 11:21:36] Total 550 files processed
+[INFO]-[2019/05/16 11:21:37] Total 600 files processed
+[INFO]-[2019/05/16 11:21:37] Total 600 files processed
+[INFO]-[2019/05/16 11:21:38] Total 650 files processed
+[INFO]-[2019/05/16 11:21:38] Total 650 files processed
+[INFO]-[2019/05/16 11:21:38] Total 700 files processed
+[INFO]-[2019/05/16 11:21:38] Total 700 files processed
+[INFO]-[2019/05/16 11:21:39] Total 750 files processed
+[INFO]-[2019/05/16 11:21:39] Total 750 files processed
+[INFO]-[2019/05/16 11:21:39] Total 800 files processed
+[INFO]-[2019/05/16 11:21:39] Total 800 files processed
+[INFO]-[2019/05/16 11:21:40] Total 850 files processed
+[INFO]-[2019/05/16 11:21:40] Total 850 files processed
+[INFO]-[2019/05/16 11:21:40] Total 900 files processed
+[INFO]-[2019/05/16 11:21:40] Total 900 files processed
+[INFO]-[2019/05/16 11:21:41] Total 950 files processed
+[INFO]-[2019/05/16 11:21:41] Total 950 files processed
+[INFO]-[2019/05/16 11:21:41] Total 1000 files processed
+[INFO]-[2019/05/16 11:21:41] Total 1000 files processed
+[INFO]-[2019/05/16 11:21:42] Total 1050 files processed
+[INFO]-[2019/05/16 11:21:42] Total 1050 files processed
+[INFO]-[2019/05/16 11:21:42] Total 1100 files processed
+[INFO]-[2019/05/16 11:21:42] Total 1100 files processed
+[INFO]-[2019/05/16 11:21:43] Total 1150 files processed
+[INFO]-[2019/05/16 11:21:43] Total 1150 files processed
+[INFO]-[2019/05/16 11:21:44] Total 1200 files processed
+[INFO]-[2019/05/16 11:21:44] Total 1200 files processed
+[INFO]-[2019/05/16 11:21:44] Total 1250 files processed
+[INFO]-[2019/05/16 11:21:44] Total 1250 files processed
+[INFO]-[2019/05/16 11:21:45] Total 1300 files processed
+[INFO]-[2019/05/16 11:21:45] Total 1300 files processed
+[INFO]-[2019/05/16 11:21:45] Total 1350 files processed
+[INFO]-[2019/05/16 11:21:45] Total 1350 files processed
+[INFO]-[2019/05/16 11:21:46] Total 1400 files processed
+[INFO]-[2019/05/16 11:21:46] Total 1400 files processed
+[INFO]-[2019/05/16 11:21:46] Total 1450 files processed
+[INFO]-[2019/05/16 11:21:46] Total 1450 files processed
+[INFO]-[2019/05/16 11:21:47] Total 1500 files processed
+[INFO]-[2019/05/16 11:21:47] Total 1500 files processed
+[INFO]-[2019/05/16 11:21:47] Total 1550 files processed
+[INFO]-[2019/05/16 11:21:47] Total 1550 files processed
+[INFO]-[2019/05/16 11:21:48] Total 1600 files processed
+[INFO]-[2019/05/16 11:21:48] Total 1600 files processed
+[INFO]-[2019/05/16 11:21:48] Total 1650 files processed
+[INFO]-[2019/05/16 11:21:48] Total 1650 files processed
+[INFO]-[2019/05/16 11:21:49] Total 1700 files processed
+[INFO]-[2019/05/16 11:21:49] Total 1700 files processed
+[INFO]-[2019/05/16 11:21:49] Total 1750 files processed
+[INFO]-[2019/05/16 11:21:49] Total 1750 files processed
+[INFO]-[2019/05/16 11:21:50] Total 1800 files processed
+[INFO]-[2019/05/16 11:21:50] Total 1800 files processed
+[INFO]-[2019/05/16 11:21:50] Total 1850 files processed
+[INFO]-[2019/05/16 11:21:50] Total 1850 files processed
+[INFO]-[2019/05/16 11:21:51] Total 1900 files processed
+[INFO]-[2019/05/16 11:21:51] Total 1900 files processed
+[INFO]-[2019/05/16 11:21:52] Total 1950 files processed
+[INFO]-[2019/05/16 11:21:52] Total 1950 files processed
+[INFO]-[2019/05/16 11:21:52] Total 2000 files processed
+[INFO]-[2019/05/16 11:21:52] Total 2000 files processed
+[INFO]-[2019/05/16 11:21:53] Total 2050 files processed
+[INFO]-[2019/05/16 11:21:53] Total 2050 files processed
+[INFO]-[2019/05/16 11:21:53] Total 2100 files processed
+[INFO]-[2019/05/16 11:21:53] Total 2100 files processed
+[INFO]-[2019/05/16 11:21:54] Total 2150 files processed
+[INFO]-[2019/05/16 11:21:54] Total 2150 files processed
+[INFO]-[2019/05/16 11:21:54] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-33.jpg
+[INFO]-[2019/05/16 11:21:54] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml
+[INFO]-[2019/05/16 11:21:54] Total 2200 files processed
+[INFO]-[2019/05/16 11:21:54] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-33.jpg
+[INFO]-[2019/05/16 11:21:54] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml
+[INFO]-[2019/05/16 11:21:54] Total 2200 files processed
+[INFO]-[2019/05/16 11:21:55] Total 2250 files processed
+[INFO]-[2019/05/16 11:21:55] Total 2250 files processed
+[INFO]-[2019/05/16 11:21:55] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg
+[INFO]-[2019/05/16 11:21:55] Total 2300 files processed
+[INFO]-[2019/05/16 11:21:55] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg
+[INFO]-[2019/05/16 11:21:55] Total 2300 files processed
+[INFO]-[2019/05/16 11:21:56] Total 2350 files processed
+[INFO]-[2019/05/16 11:21:56] Total 2350 files processed
+[INFO]-[2019/05/16 11:21:56] Total 2400 files processed
+[INFO]-[2019/05/16 11:21:56] Total 2400 files processed
+[INFO]-[2019/05/16 11:21:57] Total 2450 files processed
+[INFO]-[2019/05/16 11:21:57] Total 2450 files processed
+[INFO]-[2019/05/16 11:21:58] Total 2500 files processed
+[INFO]-[2019/05/16 11:21:58] Total 2500 files processed
+[INFO]-[2019/05/16 11:21:58] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/06.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/06.png
+[INFO]-[2019/05/16 11:21:58] Total 2550 files processed
+[INFO]-[2019/05/16 11:21:58] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/06.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/06.png
+[INFO]-[2019/05/16 11:21:58] Total 2550 files processed
+[INFO]-[2019/05/16 11:21:59] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4
+[INFO]-[2019/05/16 11:21:59] Total 2600 files processed
+[INFO]-[2019/05/16 11:21:59] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4
+[INFO]-[2019/05/16 11:21:59] Total 2600 files processed
+[INFO]-[2019/05/16 11:21:59] Total 2650 files processed
+[INFO]-[2019/05/16 11:21:59] Total 2650 files processed
+[INFO]-[2019/05/16 11:22:00] Total 2700 files processed
+[INFO]-[2019/05/16 11:22:00] Total 2700 files processed
+[INFO]-[2019/05/16 11:22:00] Total 2750 files processed
+[INFO]-[2019/05/16 11:22:00] Total 2750 files processed
+[INFO]-[2019/05/16 11:22:01] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01.png
+[INFO]-[2019/05/16 11:22:01] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/writer-at-work-deciding-on-goal-PFMSGYL.jpg
+[INFO]-[2019/05/16 11:22:01] Total 2800 files processed
+[INFO]-[2019/05/16 11:22:01] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01.png
+[INFO]-[2019/05/16 11:22:01] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/writer-at-work-deciding-on-goal-PFMSGYL.jpg
+[INFO]-[2019/05/16 11:22:01] Total 2800 files processed
+[INFO]-[2019/05/16 11:22:01] Total 2850 files processed
+[INFO]-[2019/05/16 11:22:01] Total 2850 files processed
+[INFO]-[2019/05/16 11:22:02] Total 2900 files processed
+[INFO]-[2019/05/16 11:22:02] Total 2900 files processed
+[INFO]-[2019/05/16 11:22:03] Total 2950 files processed
+[INFO]-[2019/05/16 11:22:03] Total 2950 files processed
+[INFO]-[2019/05/16 11:22:03] Total 3000 files processed
+[INFO]-[2019/05/16 11:22:03] Total 3000 files processed
+[INFO]-[2019/05/16 11:22:04] Total 3050 files processed
+[INFO]-[2019/05/16 11:22:04] Total 3050 files processed
+[INFO]-[2019/05/16 11:22:04] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg
+[INFO]-[2019/05/16 11:22:04] Total 3100 files processed
+[INFO]-[2019/05/16 11:22:04] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg
+[INFO]-[2019/05/16 11:22:04] Total 3100 files processed
+[INFO]-[2019/05/16 11:22:05] Total 3150 files processed
+[INFO]-[2019/05/16 11:22:05] Total 3150 files processed
+[INFO]-[2019/05/16 11:22:05] Total 3200 files processed
+[INFO]-[2019/05/16 11:22:05] Total 3200 files processed
+[INFO]-[2019/05/16 11:22:06] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4
+[INFO]-[2019/05/16 11:22:06] Total 3250 files processed
+[INFO]-[2019/05/16 11:22:06] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4
+[INFO]-[2019/05/16 11:22:06] Total 3250 files processed
+[INFO]-[2019/05/16 11:22:06] Total 3300 files processed
+[INFO]-[2019/05/16 11:22:06] Total 3300 files processed
+[INFO]-[2019/05/16 11:22:07] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/polygon3.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/polygon3.png
+[INFO]-[2019/05/16 11:22:07] Total 3350 files processed
+[INFO]-[2019/05/16 11:22:07] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/polygon3.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/polygon3.png
+[INFO]-[2019/05/16 11:22:07] Total 3350 files processed
+[INFO]-[2019/05/16 11:22:07] Total 3400 files processed
+[INFO]-[2019/05/16 11:22:07] Total 3400 files processed
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01-1.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01-1.png
+[INFO]-[2019/05/16 11:22:08] Total 3450 files processed
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01-1.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01-1.png
+[INFO]-[2019/05/16 11:22:08] Total 3450 files processed
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/deviantartredesign.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/deviantartredesign.png
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/presence-img2.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/presence-img2.jpg
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg
+[INFO]-[2019/05/16 11:22:08] Total 3500 files processed
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/deviantartredesign.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/deviantartredesign.png
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/presence-img2.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/presence-img2.jpg
+[INFO]-[2019/05/16 11:22:08] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg
+[INFO]-[2019/05/16 11:22:08] Total 3500 files processed
+[INFO]-[2019/05/16 11:22:09] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/arigato-site.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/arigato-site.png
+[INFO]-[2019/05/16 11:22:09] Total 3550 files processed
+[INFO]-[2019/05/16 11:22:09] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/arigato-site.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/arigato-site.png
+[INFO]-[2019/05/16 11:22:09] Total 3550 files processed
+[INFO]-[2019/05/16 11:22:10] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg
+[INFO]-[2019/05/16 11:22:10] Total 3600 files processed
+[INFO]-[2019/05/16 11:22:10] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg
+[INFO]-[2019/05/16 11:22:10] Total 3600 files processed
+[INFO]-[2019/05/16 11:22:10] Total 3650 files processed
+[INFO]-[2019/05/16 11:22:10] Total 3650 files processed
+[INFO]-[2019/05/16 11:22:11] Total 3700 files processed
+[INFO]-[2019/05/16 11:22:11] Total 3700 files processed
+[INFO]-[2019/05/16 11:22:11] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg
+[INFO]-[2019/05/16 11:22:11] Total 3750 files processed
+[INFO]-[2019/05/16 11:22:11] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg
+[INFO]-[2019/05/16 11:22:11] Total 3750 files processed
+[INFO]-[2019/05/16 11:22:12] Total 3800 files processed
+[INFO]-[2019/05/16 11:22:12] Total 3800 files processed
+[INFO]-[2019/05/16 11:22:12] Total 3850 files processed
+[INFO]-[2019/05/16 11:22:12] Total 3850 files processed
+[INFO]-[2019/05/16 11:22:13] Total 3900 files processed
+[INFO]-[2019/05/16 11:22:13] Total 3900 files processed
+[INFO]-[2019/05/16 11:22:13] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd
+[INFO]-[2019/05/16 11:22:13] Total 3950 files processed
+[INFO]-[2019/05/16 11:22:13] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd
+[INFO]-[2019/05/16 11:22:13] Total 3950 files processed
+[INFO]-[2019/05/16 11:22:14] Total 4000 files processed
+[INFO]-[2019/05/16 11:22:14] Total 4000 files processed
+[INFO]-[2019/05/16 11:22:14] Total 4050 files processed
+[INFO]-[2019/05/16 11:22:14] Total 4050 files processed
+[INFO]-[2019/05/16 11:22:15] Total 4100 files processed
+[INFO]-[2019/05/16 11:22:15] Total 4100 files processed
+[INFO]-[2019/05/16 11:22:16] Total 4150 files processed
+[INFO]-[2019/05/16 11:22:16] Total 4150 files processed
+[INFO]-[2019/05/16 11:22:16] Total 4200 files processed
+[INFO]-[2019/05/16 11:22:16] Total 4200 files processed
+[INFO]-[2019/05/16 11:22:17] Total 4250 files processed
+[INFO]-[2019/05/16 11:22:17] Total 4250 files processed
+[INFO]-[2019/05/16 11:22:17] Total 4300 files processed
+[INFO]-[2019/05/16 11:22:17] Total 4300 files processed
+[INFO]-[2019/05/16 11:22:18] Total 4350 files processed
+[INFO]-[2019/05/16 11:22:18] Total 4350 files processed
+[INFO]-[2019/05/16 11:22:18] Total 4400 files processed
+[INFO]-[2019/05/16 11:22:18] Total 4400 files processed
+[INFO]-[2019/05/16 11:22:19] Total 4450 files processed
+[INFO]-[2019/05/16 11:22:19] Total 4450 files processed
+[INFO]-[2019/05/16 11:22:19] Total 4500 files processed
+[INFO]-[2019/05/16 11:22:19] Total 4500 files processed
+[INFO]-[2019/05/16 11:22:20] Total 4550 files processed
+[INFO]-[2019/05/16 11:22:20] Total 4550 files processed
+[INFO]-[2019/05/16 11:22:20] Total 4600 files processed
+[INFO]-[2019/05/16 11:22:20] Total 4600 files processed
+[INFO]-[2019/05/16 11:22:21] Total 4650 files processed
+[INFO]-[2019/05/16 11:22:21] Total 4650 files processed
+[INFO]-[2019/05/16 11:22:21] Total 4700 files processed
+[INFO]-[2019/05/16 11:22:21] Total 4700 files processed
+[INFO]-[2019/05/16 11:22:22] Total 4750 files processed
+[INFO]-[2019/05/16 11:22:22] Total 4750 files processed
+[INFO]-[2019/05/16 11:22:23] Total 4800 files processed
+[INFO]-[2019/05/16 11:22:23] Total 4800 files processed
+[INFO]-[2019/05/16 11:22:23] Total 4850 files processed
+[INFO]-[2019/05/16 11:22:23] Total 4850 files processed
+[INFO]-[2019/05/16 11:22:24] Total 4900 files processed
+[INFO]-[2019/05/16 11:22:24] Total 4900 files processed
+[INFO]-[2019/05/16 11:22:24] Total 4950 files processed
+[INFO]-[2019/05/16 11:22:24] Total 4950 files processed
+[INFO]-[2019/05/16 11:22:25] Total 5000 files processed
+[INFO]-[2019/05/16 11:22:25] Total 5000 files processed
+[INFO]-[2019/05/16 11:22:25] Total 5050 files processed
+[INFO]-[2019/05/16 11:22:25] Total 5050 files processed
+[INFO]-[2019/05/16 11:22:26] Total 5100 files processed
+[INFO]-[2019/05/16 11:22:26] Total 5100 files processed
+[INFO]-[2019/05/16 11:22:26] Total 5150 files processed
+[INFO]-[2019/05/16 11:22:26] Total 5150 files processed
+[INFO]-[2019/05/16 11:22:27] Total 5200 files processed
+[INFO]-[2019/05/16 11:22:27] Total 5200 files processed
+[INFO]-[2019/05/16 11:22:28] Total 5250 files processed
+[INFO]-[2019/05/16 11:22:28] Total 5250 files processed
+[INFO]-[2019/05/16 11:22:28] Total 5300 files processed
+[INFO]-[2019/05/16 11:22:28] Total 5300 files processed
+[INFO]-[2019/05/16 11:22:29] Total 5350 files processed
+[INFO]-[2019/05/16 11:22:29] Total 5350 files processed
+[INFO]-[2019/05/16 11:22:29] Total 5400 files processed
+[INFO]-[2019/05/16 11:22:29] Total 5400 files processed
+[INFO]-[2019/05/16 11:22:30] Total 5450 files processed
+[INFO]-[2019/05/16 11:22:30] Total 5450 files processed
+[INFO]-[2019/05/16 11:22:31] Total 5500 files processed
+[INFO]-[2019/05/16 11:22:31] Total 5500 files processed
+[INFO]-[2019/05/16 11:22:31] Total 5550 files processed
+[INFO]-[2019/05/16 11:22:31] Total 5550 files processed
+[INFO]-[2019/05/16 11:22:32] Total 5600 files processed
+[INFO]-[2019/05/16 11:22:32] Total 5600 files processed
+[INFO]-[2019/05/16 11:22:32] Total 5650 files processed
+[INFO]-[2019/05/16 11:22:32] Total 5650 files processed
+[INFO]-[2019/05/16 11:22:33] Total 5700 files processed
+[INFO]-[2019/05/16 11:22:33] Total 5700 files processed
+[INFO]-[2019/05/16 11:22:33] Total 5750 files processed
+[INFO]-[2019/05/16 11:22:33] Total 5750 files processed
+[INFO]-[2019/05/16 11:22:34] Total 5800 files processed
+[INFO]-[2019/05/16 11:22:34] Total 5800 files processed
+[INFO]-[2019/05/16 11:22:35] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/05/16 11:22:35] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/05/16 11:22:35] Total 5850 files processed
+[INFO]-[2019/05/16 11:22:35] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/05/16 11:22:35] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/05/16 11:22:35] Total 5850 files processed
+[INFO]-[2019/05/16 11:22:35] Total 5900 files processed
+[INFO]-[2019/05/16 11:22:35] Total 5900 files processed
+[INFO]-[2019/05/16 11:22:36] Total 5950 files processed
+[INFO]-[2019/05/16 11:22:36] Total 5950 files processed
+[INFO]-[2019/05/16 11:22:37] Total 6000 files processed
+[INFO]-[2019/05/16 11:22:37] Total 6000 files processed
+[INFO]-[2019/05/16 11:22:37] Total 6050 files processed
+[INFO]-[2019/05/16 11:22:37] Total 6050 files processed
+[INFO]-[2019/05/16 11:22:38] Total 6100 files processed
+[INFO]-[2019/05/16 11:22:38] Total 6100 files processed
+[INFO]-[2019/05/16 11:22:38] Total 6150 files processed
+[INFO]-[2019/05/16 11:22:38] Total 6150 files processed
+[INFO]-[2019/05/16 11:22:39] Total 6200 files processed
+[INFO]-[2019/05/16 11:22:39] Total 6200 files processed
+[INFO]-[2019/05/16 11:22:39] Total 6250 files processed
+[INFO]-[2019/05/16 11:22:39] Total 6250 files processed
+[INFO]-[2019/05/16 11:22:40] Total 6300 files processed
+[INFO]-[2019/05/16 11:22:40] Total 6300 files processed
+[INFO]-[2019/05/16 11:22:41] Total 6350 files processed
+[INFO]-[2019/05/16 11:22:41] Total 6350 files processed
+[INFO]-[2019/05/16 11:22:41] Total 6400 files processed
+[INFO]-[2019/05/16 11:22:41] Total 6400 files processed
+[INFO]-[2019/05/16 11:22:42] Total 6450 files processed
+[INFO]-[2019/05/16 11:22:42] Total 6450 files processed
+[INFO]-[2019/05/16 11:22:42] Total 6500 files processed
+[INFO]-[2019/05/16 11:22:42] Total 6500 files processed
+[INFO]-[2019/05/16 11:22:43] Total 6550 files processed
+[INFO]-[2019/05/16 11:22:43] Total 6550 files processed
+[INFO]-[2019/05/16 11:22:43] Total 6600 files processed
+[INFO]-[2019/05/16 11:22:43] Total 6600 files processed
+[INFO]-[2019/05/16 11:22:44] Total 6650 files processed
+[INFO]-[2019/05/16 11:22:44] Total 6650 files processed
+[INFO]-[2019/05/16 11:22:45] Total 6700 files processed
+[INFO]-[2019/05/16 11:22:45] Total 6700 files processed
+[INFO]-[2019/05/16 11:22:45] Total 6750 files processed
+[INFO]-[2019/05/16 11:22:45] Total 6750 files processed
+[INFO]-[2019/05/16 11:22:46] Total 6800 files processed
+[INFO]-[2019/05/16 11:22:46] Total 6800 files processed
+[INFO]-[2019/05/16 11:22:46] Total 6850 files processed
+[INFO]-[2019/05/16 11:22:46] Total 6850 files processed
+[INFO]-[2019/05/16 11:22:47] Total 6900 files processed
+[INFO]-[2019/05/16 11:22:47] Total 6900 files processed
+[INFO]-[2019/05/16 11:22:47] Total 6950 files processed
+[INFO]-[2019/05/16 11:22:47] Total 6950 files processed
+[INFO]-[2019/05/16 11:22:48] Total 7000 files processed
+[INFO]-[2019/05/16 11:22:48] Total 7000 files processed
+[INFO]-[2019/05/16 11:22:49] Total 7050 files processed
+[INFO]-[2019/05/16 11:22:49] Total 7050 files processed
+[INFO]-[2019/05/16 11:22:49] Total 7100 files processed
+[INFO]-[2019/05/16 11:22:49] Total 7100 files processed
+[INFO]-[2019/05/16 11:22:50] Total 7150 files processed
+[INFO]-[2019/05/16 11:22:50] Total 7150 files processed
+[INFO]-[2019/05/16 11:22:50] Total 7200 files processed
+[INFO]-[2019/05/16 11:22:50] Total 7200 files processed
+[INFO]-[2019/05/16 11:22:51] Total 7250 files processed
+[INFO]-[2019/05/16 11:22:51] Total 7250 files processed
+[INFO]-[2019/05/16 11:22:51] Total 7300 files processed
+[INFO]-[2019/05/16 11:22:51] Total 7300 files processed
+[INFO]-[2019/05/16 11:22:52] Total 7350 files processed
+[INFO]-[2019/05/16 11:22:52] Total 7350 files processed
+[INFO]-[2019/05/16 11:22:52] Total 7400 files processed
+[INFO]-[2019/05/16 11:22:52] Total 7400 files processed
+[INFO]-[2019/05/16 11:22:53] Total 7450 files processed
+[INFO]-[2019/05/16 11:22:53] Total 7450 files processed
+[INFO]-[2019/05/16 11:22:53] Total 7500 files processed
+[INFO]-[2019/05/16 11:22:53] Total 7500 files processed
+[INFO]-[2019/05/16 11:22:54] Total 7550 files processed
+[INFO]-[2019/05/16 11:22:54] Total 7550 files processed
+[INFO]-[2019/05/16 11:22:54] Total 7600 files processed
+[INFO]-[2019/05/16 11:22:54] Total 7600 files processed
+[INFO]-[2019/05/16 11:22:55] Total 7650 files processed
+[INFO]-[2019/05/16 11:22:55] Total 7650 files processed
+[INFO]-[2019/05/16 11:22:56] Total 7700 files processed
+[INFO]-[2019/05/16 11:22:56] Total 7700 files processed
+[INFO]-[2019/05/16 11:22:56] Total 7750 files processed
+[INFO]-[2019/05/16 11:22:56] Total 7750 files processed
+[INFO]-[2019/05/16 11:22:57] Total 7800 files processed
+[INFO]-[2019/05/16 11:22:57] Total 7800 files processed
+[INFO]-[2019/05/16 11:22:57] Total 7850 files processed
+[INFO]-[2019/05/16 11:22:57] Total 7850 files processed
+[INFO]-[2019/05/16 11:22:58] Total 7900 files processed
+[INFO]-[2019/05/16 11:22:58] Total 7900 files processed
+[INFO]-[2019/05/16 11:22:59] Total 7950 files processed
+[INFO]-[2019/05/16 11:22:59] Total 7950 files processed
+[INFO]-[2019/05/16 11:22:59] Total 8000 files processed
+[INFO]-[2019/05/16 11:22:59] Total 8000 files processed
+[INFO]-[2019/05/16 11:23:00] Total 8050 files processed
+[INFO]-[2019/05/16 11:23:00] Total 8050 files processed
+[INFO]-[2019/05/16 11:23:00] Total 8100 files processed
+[INFO]-[2019/05/16 11:23:00] Total 8100 files processed
+[INFO]-[2019/05/16 11:23:01] Total 8150 files processed
+[INFO]-[2019/05/16 11:23:01] Total 8150 files processed
+[INFO]-[2019/05/16 11:23:02] Total 8200 files processed
+[INFO]-[2019/05/16 11:23:02] Total 8200 files processed
+[INFO]-[2019/05/16 11:23:02] Total 8250 files processed
+[INFO]-[2019/05/16 11:23:02] Total 8250 files processed
+[INFO]-[2019/05/16 11:23:03] Total 8300 files processed
+[INFO]-[2019/05/16 11:23:03] Total 8300 files processed
+[INFO]-[2019/05/16 11:23:03] Total 8350 files processed
+[INFO]-[2019/05/16 11:23:03] Total 8350 files processed
+[INFO]-[2019/05/16 11:23:04] Total 8400 files processed
+[INFO]-[2019/05/16 11:23:04] Total 8400 files processed
+[INFO]-[2019/05/16 11:23:04] Total 8450 files processed
+[INFO]-[2019/05/16 11:23:04] Total 8450 files processed
+[INFO]-[2019/05/16 11:23:05] Total 8500 files processed
+[INFO]-[2019/05/16 11:23:05] Total 8500 files processed
+[INFO]-[2019/05/16 11:23:06] Total 8550 files processed
+[INFO]-[2019/05/16 11:23:06] Total 8550 files processed
+[INFO]-[2019/05/16 11:23:06] Total 8600 files processed
+[INFO]-[2019/05/16 11:23:06] Total 8600 files processed
+[INFO]-[2019/05/16 11:23:07] Total 8650 files processed
+[INFO]-[2019/05/16 11:23:07] Total 8650 files processed
+[INFO]-[2019/05/16 11:23:07] Total 8700 files processed
+[INFO]-[2019/05/16 11:23:07] Total 8700 files processed
+[INFO]-[2019/05/16 11:23:08] Total 8750 files processed
+[INFO]-[2019/05/16 11:23:08] Total 8750 files processed
+[INFO]-[2019/05/16 11:23:08] Total 8800 files processed
+[INFO]-[2019/05/16 11:23:08] Total 8800 files processed
+[INFO]-[2019/05/16 11:23:09] Total 8850 files processed
+[INFO]-[2019/05/16 11:23:09] Total 8850 files processed
+[INFO]-[2019/05/16 11:23:10] Total 8900 files processed
+[INFO]-[2019/05/16 11:23:10] Total 8900 files processed
+[INFO]-[2019/05/16 11:23:10] Total 8950 files processed
+[INFO]-[2019/05/16 11:23:10] Total 8950 files processed
+[INFO]-[2019/05/16 11:23:11] Total 9000 files processed
+[INFO]-[2019/05/16 11:23:11] Total 9000 files processed
+[INFO]-[2019/05/16 11:23:11] Total 9050 files processed
+[INFO]-[2019/05/16 11:23:11] Total 9050 files processed
+[INFO]-[2019/05/16 11:23:12] Total 9100 files processed
+[INFO]-[2019/05/16 11:23:12] Total 9100 files processed
+[INFO]-[2019/05/16 11:23:12] Total 9150 files processed
+[INFO]-[2019/05/16 11:23:12] Total 9150 files processed
+[INFO]-[2019/05/16 11:23:13] Total 9200 files processed
+[INFO]-[2019/05/16 11:23:13] Total 9200 files processed
+[INFO]-[2019/05/16 11:23:13] Total 9250 files processed
+[INFO]-[2019/05/16 11:23:13] Total 9250 files processed
+[INFO]-[2019/05/16 11:23:14] Total 9300 files processed
+[INFO]-[2019/05/16 11:23:14] Total 9300 files processed
+[INFO]-[2019/05/16 11:23:14] Total 9350 files processed
+[INFO]-[2019/05/16 11:23:14] Total 9350 files processed
+[INFO]-[2019/05/16 11:23:15] Total 9400 files processed
+[INFO]-[2019/05/16 11:23:15] Total 9400 files processed
+[INFO]-[2019/05/16 11:23:15] Total 9450 files processed
+[INFO]-[2019/05/16 11:23:15] Total 9450 files processed
+[INFO]-[2019/05/16 11:23:16] Total 9500 files processed
+[INFO]-[2019/05/16 11:23:16] Total 9500 files processed
+[INFO]-[2019/05/16 11:23:17] Total 9550 files processed
+[INFO]-[2019/05/16 11:23:17] Total 9550 files processed
+[INFO]-[2019/05/16 11:23:17] Total 9600 files processed
+[INFO]-[2019/05/16 11:23:17] Total 9600 files processed
+[INFO]-[2019/05/16 11:23:18] Total 9650 files processed
+[INFO]-[2019/05/16 11:23:18] Total 9650 files processed
+[INFO]-[2019/05/16 11:23:18] Total 9700 files processed
+[INFO]-[2019/05/16 11:23:18] Total 9700 files processed
+[INFO]-[2019/05/16 11:23:19] Total 9750 files processed
+[INFO]-[2019/05/16 11:23:19] Total 9750 files processed
+[INFO]-[2019/05/16 11:23:19] Total 9800 files processed
+[INFO]-[2019/05/16 11:23:19] Total 9800 files processed
+[INFO]-[2019/05/16 11:23:20] Total 9850 files processed
+[INFO]-[2019/05/16 11:23:20] Total 9850 files processed
+[INFO]-[2019/05/16 11:23:21] Total 9900 files processed
+[INFO]-[2019/05/16 11:23:21] Total 9900 files processed
+[INFO]-[2019/05/16 11:23:21] Total 9950 files processed
+[INFO]-[2019/05/16 11:23:21] Total 9950 files processed
+[INFO]-[2019/05/16 11:23:22] Total 10000 files processed
+[INFO]-[2019/05/16 11:23:22] Total 10000 files processed
+[INFO]-[2019/05/16 11:23:22] Total 10050 files processed
+[INFO]-[2019/05/16 11:23:22] Total 10050 files processed
+[INFO]-[2019/05/16 11:23:23] Total 10100 files processed
+[INFO]-[2019/05/16 11:23:23] Total 10100 files processed
+[INFO]-[2019/05/16 11:23:23] Total 10150 files processed
+[INFO]-[2019/05/16 11:23:23] Total 10150 files processed
+[INFO]-[2019/05/16 11:23:24] Total 10200 files processed
+[INFO]-[2019/05/16 11:23:24] Total 10200 files processed
+[INFO]-[2019/05/16 11:23:24] Total 10250 files processed
+[INFO]-[2019/05/16 11:23:24] Total 10250 files processed
+[INFO]-[2019/05/16 11:23:25] Total 10300 files processed
+[INFO]-[2019/05/16 11:23:25] Total 10300 files processed
+[WARNING]-[2019/05/16 11:23:25] File doesn't exist /home/viral/web/viral.com.ua/public_html/
+[WARNING]-[2019/05/16 11:23:25] File doesn't exist /home/viral/web/viral.com.ua/public_html/
+[INFO]-[2019/05/16 11:23:26] Copying files finished
+[INFO]-[2019/05/16 11:23:26] Copying files finished
+[INFO]-[2019/05/16 11:23:26] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/05/16 11:23:26] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step1: Updating siteurl and homeurl to https://dev.viral.com.ua
+[ERROR]-[2019/05/16 11:23:27] Preparing Data Step1: Failed to update siteurl and homeurl in wpstg0_options. Probably already did! 
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step1: Updating siteurl and homeurl to https://dev.viral.com.ua
+[ERROR]-[2019/05/16 11:23:27] Preparing Data Step1: Failed to update siteurl and homeurl in wpstg0_options. Probably already did! 
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step2: Successfull
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/05/16 11:23:27] Preparing Data Step2: Successfull
+[INFO]-[2019/05/16 11:23:28] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/05/16 11:23:28] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/05/16 11:23:28] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/05/16 11:23:28] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/05/16 11:23:29] Preparing Data Step5: Updating table_prefix in /home/viral/web/viral.com.ua/public_html/dev/wp-config.php to wpstg0_
+[INFO]-[2019/05/16 11:23:29] Preparing Data Step5: Updating table_prefix in /home/viral/web/viral.com.ua/public_html/dev/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:23:30] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/05/16 11:23:30] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/05/16 11:23:30] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/05/16 11:23:30] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/05/16 11:23:30] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/05/16 11:23:30] Preparing Data Step8: Finished successfully
+[INFO]-[2019/05/16 11:23:30] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/05/16 11:23:30] Preparing Data Step8: Finished successfully
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step9: Set staging site to noindex
+[WARNING]-[2019/05/16 11:23:31] Can not update staging site to noindex. Possible already done!
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step9: Set staging site to noindex
+[WARNING]-[2019/05/16 11:23:31] Can not update staging site to noindex. Possible already done!
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://dev.viral.com.ua
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://dev.viral.com.ua
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:31] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://dev.viral.com.ua
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://dev.viral.com.ua
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/05/16 11:23:32] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step13: Skipped
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step13: Skipped
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/05/16 11:23:33] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:34] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/05/16 11:23:35] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/05/16 11:23:35] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:35] Preparing Data Step 17: Finished successfully
+[INFO]-[2019/05/16 11:23:35] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/05/16 11:23:35] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:23:35] Preparing Data Step 17: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:23:36] Finish: Deleting clone job's cache files...
+[INFO]-[2019/05/16 11:23:36] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/05/16 11:23:36] Finish: Verifying existing clones...
+[INFO]-[2019/05/16 11:23:36] Finish: dev's clone job's data is not in database, generating data
+[INFO]-[2019/05/16 11:23:36] Finish: Deleting clone job's cache files...
+[INFO]-[2019/05/16 11:23:36] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/05/16 11:23:36] Finish: Verifying existing clones...
+[INFO]-[2019/05/16 11:23:36] Finish: dev's clone job's data is not in database, generating data
+[INFO]-[2019/05/16 11:37:02] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/05/16 11:37:03] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:02] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/05/16 11:37:03] DB Copy: wp_commentmeta as wpstg0_commentmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:03] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/05/16 11:37:03] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:03] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/05/16 11:37:03] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:04] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2019/05/16 11:37:04] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:04] DB Copy: Creating table wpstg0_duplicator_packages
+[INFO]-[2019/05/16 11:37:04] DB Copy: wp_duplicator_packages as wpstg0_duplicator_packages from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:04] DB Copy: Creating table wpstg0_hfcm_scripts
+[INFO]-[2019/05/16 11:37:04] DB Copy: wp_hfcm_scripts as wpstg0_hfcm_scripts from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:04] DB Copy: Creating table wpstg0_hfcm_scripts
+[INFO]-[2019/05/16 11:37:04] DB Copy: wp_hfcm_scripts as wpstg0_hfcm_scripts from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:05] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/05/16 11:37:05] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/05/16 11:37:05] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/05/16 11:37:05] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:05] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/05/16 11:37:05] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:06] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/05/16 11:37:06] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:06] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/05/16 11:37:06] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:12] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/05/16 11:37:12] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:12] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/05/16 11:37:12] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:13] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/05/16 11:37:13] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:13] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/05/16 11:37:13] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:14] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/05/16 11:37:14] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:14] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/05/16 11:37:14] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:14] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/05/16 11:37:14] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/05/16 11:37:15] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/05/16 11:37:15] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:15] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/05/16 11:37:15] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:16] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/05/16 11:37:16] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:16] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/05/16 11:37:16] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:16] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/05/16 11:37:16] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:16] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/05/16 11:37:16] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:17] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/05/16 11:37:17] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:17] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/05/16 11:37:17] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:18] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/05/16 11:37:18] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/05/16 11:37:18] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/05/16 11:37:18] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:37:19] DB Processing:  Table wpstg0_commentmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:37:19] DB Processing:  Table wpstg0_commentmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:37:20] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/05/16 11:37:20] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/05/16 11:37:21] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[INFO]-[2019/05/16 11:37:21] DB Processing:  Table wpstg0_duplicator_packages 0 to 5000 records
+[INFO]-[2019/05/16 11:37:22] DB Processing:  Table wpstg0_hfcm_scripts 0 to 5000 records
+[INFO]-[2019/05/16 11:37:22] DB Processing:  Table wpstg0_hfcm_scripts 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:37:24] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/05/16 11:37:24] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/05/16 11:37:25] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:37:25] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/05/16 11:37:37] DB Processing:  Table wpstg0_postmeta 5000 to 10000 records
+[INFO]-[2019/05/16 11:37:37] DB Processing:  Table wpstg0_postmeta 5000 to 10000 records
+[INFO]-[2019/05/16 11:37:51] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/05/16 11:37:51] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/05/16 11:38:00] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/05/16 11:38:00] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/05/16 11:38:01] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/05/16 11:38:01] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:38:03] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/05/16 11:38:03] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/05/16 11:38:04] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/05/16 11:38:04] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/05/16 11:38:05] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/05/16 11:38:05] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/05/16 11:38:06] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/05/16 11:38:06] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/05/16 11:38:08] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/05/16 11:38:08] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:38:09] Scanning / for files
+[INFO]-[2019/05/16 11:38:09] Scanning / for files
+[INFO]-[2019/05/16 11:38:11] Scanning wp-content folder /home/viral/web/viral.com.ua/public_html/wp-content
+[INFO]-[2019/05/16 11:38:11] Scanning wp-content folder /home/viral/web/viral.com.ua/public_html/wp-content
+[INFO]-[2019/05/16 11:38:14] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/05/16 11:38:14] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/05/16 11:38:15] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/05/16 11:38:15] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/05/16 11:38:16] Copying files...
+[INFO]-[2019/05/16 11:38:16] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip
+[INFO]-[2019/05/16 11:38:16] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-db.gz
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-plugins.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-uploads.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-db.gz
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-uploads.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-plugins.zip
+[INFO]-[2019/05/16 11:38:16] Total 50 files processed
+[INFO]-[2019/05/16 11:38:16] Copying files...
+[INFO]-[2019/05/16 11:38:16] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-themes.zip
+[INFO]-[2019/05/16 11:38:16] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-themes.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-db.gz
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-plugins.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-uploads.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-db.gz
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-07-1058_Viral_cb103d9c5d5a-uploads.zip
+[INFO]-[2019/05/16 11:38:16] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/updraft/backup_2019-05-06-1652_Viral_6f3618e8ce53-plugins.zip
+[INFO]-[2019/05/16 11:38:16] Total 50 files processed
+[INFO]-[2019/05/16 11:38:17] Total 100 files processed
+[INFO]-[2019/05/16 11:38:17] Total 100 files processed
+[INFO]-[2019/05/16 11:38:18] Total 150 files processed
+[INFO]-[2019/05/16 11:38:18] Total 150 files processed
+[INFO]-[2019/05/16 11:38:19] Total 200 files processed
+[INFO]-[2019/05/16 11:38:19] Total 200 files processed
+[INFO]-[2019/05/16 11:38:20] Total 250 files processed
+[INFO]-[2019/05/16 11:38:20] Total 250 files processed
+[INFO]-[2019/05/16 11:38:21] Total 300 files processed
+[INFO]-[2019/05/16 11:38:21] Total 300 files processed
+[INFO]-[2019/05/16 11:38:22] Total 350 files processed
+[INFO]-[2019/05/16 11:38:22] Total 350 files processed
+[INFO]-[2019/05/16 11:38:23] Total 400 files processed
+[INFO]-[2019/05/16 11:38:23] Total 400 files processed
+[INFO]-[2019/05/16 11:38:24] Total 450 files processed
+[INFO]-[2019/05/16 11:38:24] Total 450 files processed
+[INFO]-[2019/05/16 11:38:25] Total 500 files processed
+[INFO]-[2019/05/16 11:38:25] Total 500 files processed
+[INFO]-[2019/05/16 11:38:26] Total 550 files processed
+[INFO]-[2019/05/16 11:38:26] Total 550 files processed
+[INFO]-[2019/05/16 11:38:27] Total 600 files processed
+[INFO]-[2019/05/16 11:38:27] Total 600 files processed
+[INFO]-[2019/05/16 11:38:28] Total 650 files processed
+[INFO]-[2019/05/16 11:38:28] Total 650 files processed
+[INFO]-[2019/05/16 11:38:29] Total 700 files processed
+[INFO]-[2019/05/16 11:38:29] Total 700 files processed
+[INFO]-[2019/05/16 11:38:30] Total 750 files processed
+[INFO]-[2019/05/16 11:38:30] Total 750 files processed
+[INFO]-[2019/05/16 11:38:31] Total 800 files processed
+[INFO]-[2019/05/16 11:38:31] Total 800 files processed
+[INFO]-[2019/05/16 11:38:32] Total 850 files processed
+[INFO]-[2019/05/16 11:38:32] Total 850 files processed
+[INFO]-[2019/05/16 11:38:33] Total 900 files processed
+[INFO]-[2019/05/16 11:38:33] Total 900 files processed
+[INFO]-[2019/05/16 11:38:33] Total 950 files processed
+[INFO]-[2019/05/16 11:38:33] Total 950 files processed
+[INFO]-[2019/05/16 11:38:34] Total 1000 files processed
+[INFO]-[2019/05/16 11:38:34] Total 1000 files processed
+[INFO]-[2019/05/16 11:38:34] Total 1050 files processed
+[INFO]-[2019/05/16 11:38:34] Total 1050 files processed
+[INFO]-[2019/05/16 11:38:35] Total 1100 files processed
+[INFO]-[2019/05/16 11:38:35] Total 1100 files processed
+[INFO]-[2019/05/16 11:38:35] Total 1150 files processed
+[INFO]-[2019/05/16 11:38:35] Total 1150 files processed
+[INFO]-[2019/05/16 11:38:37] Total 1200 files processed
+[INFO]-[2019/05/16 11:38:37] Total 1200 files processed
+[INFO]-[2019/05/16 11:38:38] Total 1250 files processed
+[INFO]-[2019/05/16 11:38:38] Total 1250 files processed
+[INFO]-[2019/05/16 11:38:39] Total 1300 files processed
+[INFO]-[2019/05/16 11:38:39] Total 1300 files processed
+[INFO]-[2019/05/16 11:38:40] Total 1350 files processed
+[INFO]-[2019/05/16 11:38:40] Total 1350 files processed
+[INFO]-[2019/05/16 11:38:41] Total 1400 files processed
+[INFO]-[2019/05/16 11:38:41] Total 1400 files processed
+[INFO]-[2019/05/16 11:38:42] Total 1450 files processed
+[INFO]-[2019/05/16 11:38:42] Total 1450 files processed
+[INFO]-[2019/05/16 11:38:43] Total 1500 files processed
+[INFO]-[2019/05/16 11:38:43] Total 1500 files processed
+[INFO]-[2019/05/16 11:38:44] Total 1550 files processed
+[INFO]-[2019/05/16 11:38:44] Total 1550 files processed
+[INFO]-[2019/05/16 11:38:45] Total 1600 files processed
+[INFO]-[2019/05/16 11:38:45] Total 1600 files processed
+[INFO]-[2019/05/16 11:38:46] Total 1650 files processed
+[INFO]-[2019/05/16 11:38:46] Total 1650 files processed
+[INFO]-[2019/05/16 11:38:47] Total 1700 files processed
+[INFO]-[2019/05/16 11:38:47] Total 1700 files processed
+[INFO]-[2019/05/16 11:38:48] Total 1750 files processed
+[INFO]-[2019/05/16 11:38:48] Total 1750 files processed
+[INFO]-[2019/05/16 11:38:49] Total 1800 files processed
+[INFO]-[2019/05/16 11:38:49] Total 1800 files processed
+[INFO]-[2019/05/16 11:38:50] Total 1850 files processed
+[INFO]-[2019/05/16 11:38:50] Total 1850 files processed
+[INFO]-[2019/05/16 11:38:51] Total 1900 files processed
+[INFO]-[2019/05/16 11:38:51] Total 1900 files processed
+[INFO]-[2019/05/16 11:38:52] Total 1950 files processed
+[INFO]-[2019/05/16 11:38:52] Total 1950 files processed
+[INFO]-[2019/05/16 11:38:53] Total 2000 files processed
+[INFO]-[2019/05/16 11:38:53] Total 2000 files processed
+[INFO]-[2019/05/16 11:38:54] Total 2050 files processed
+[INFO]-[2019/05/16 11:38:54] Total 2050 files processed
+[INFO]-[2019/05/16 11:38:55] Total 2100 files processed
+[INFO]-[2019/05/16 11:38:55] Total 2100 files processed
+[INFO]-[2019/05/16 11:38:56] Total 2150 files processed
+[INFO]-[2019/05/16 11:38:56] Total 2150 files processed
+[INFO]-[2019/05/16 11:38:57] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-33.jpg
+[INFO]-[2019/05/16 11:38:57] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml
+[INFO]-[2019/05/16 11:38:57] Total 2200 files processed
+[INFO]-[2019/05/16 11:38:57] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-33.jpg
+[INFO]-[2019/05/16 11:38:57] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/demo-content-import-file_2019-04-03__11-04-34.xml
+[INFO]-[2019/05/16 11:38:57] Total 2200 files processed
+[INFO]-[2019/05/16 11:38:58] Total 2250 files processed
+[INFO]-[2019/05/16 11:38:58] Total 2250 files processed
+[INFO]-[2019/05/16 11:38:59] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg
+[INFO]-[2019/05/16 11:38:59] Total 2300 files processed
+[INFO]-[2019/05/16 11:38:59] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-35.jpg
+[INFO]-[2019/05/16 11:38:59] Total 2300 files processed
+[INFO]-[2019/05/16 11:39:00] Total 2350 files processed
+[INFO]-[2019/05/16 11:39:00] Total 2350 files processed
+[INFO]-[2019/05/16 11:39:01] Total 2400 files processed
+[INFO]-[2019/05/16 11:39:01] Total 2400 files processed
+[INFO]-[2019/05/16 11:39:02] Total 2450 files processed
+[INFO]-[2019/05/16 11:39:02] Total 2450 files processed
+[INFO]-[2019/05/16 11:39:03] Total 2500 files processed
+[INFO]-[2019/05/16 11:39:03] Total 2500 files processed
+[INFO]-[2019/05/16 11:39:04] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/06.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/06.png
+[INFO]-[2019/05/16 11:39:04] Total 2550 files processed
+[INFO]-[2019/05/16 11:39:04] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/06.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/06.png
+[INFO]-[2019/05/16 11:39:04] Total 2550 files processed
+[INFO]-[2019/05/16 11:39:05] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4
+[INFO]-[2019/05/16 11:39:05] Total 2600 files processed
+[INFO]-[2019/05/16 11:39:05] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING-1.mp4
+[INFO]-[2019/05/16 11:39:05] Total 2600 files processed
+[INFO]-[2019/05/16 11:39:06] Total 2650 files processed
+[INFO]-[2019/05/16 11:39:06] Total 2650 files processed
+[INFO]-[2019/05/16 11:39:07] Total 2700 files processed
+[INFO]-[2019/05/16 11:39:07] Total 2700 files processed
+[INFO]-[2019/05/16 11:39:08] Total 2750 files processed
+[INFO]-[2019/05/16 11:39:08] Total 2750 files processed
+[INFO]-[2019/05/16 11:39:09] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01.png
+[INFO]-[2019/05/16 11:39:09] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/writer-at-work-deciding-on-goal-PFMSGYL.jpg
+[INFO]-[2019/05/16 11:39:09] Total 2800 files processed
+[INFO]-[2019/05/16 11:39:09] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01.png
+[INFO]-[2019/05/16 11:39:09] Skipping big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/writer-at-work-deciding-on-goal-PFMSGYL.jpg
+[INFO]-[2019/05/16 11:39:09] Total 2800 files processed
+[INFO]-[2019/05/16 11:39:10] Total 2850 files processed
+[INFO]-[2019/05/16 11:39:10] Total 2850 files processed
+[INFO]-[2019/05/16 11:39:11] Total 2900 files processed
+[INFO]-[2019/05/16 11:39:11] Total 2900 files processed
+[INFO]-[2019/05/16 11:39:12] Total 2950 files processed
+[INFO]-[2019/05/16 11:39:12] Total 2950 files processed
+[INFO]-[2019/05/16 11:39:13] Total 3000 files processed
+[INFO]-[2019/05/16 11:39:13] Total 3000 files processed
+[INFO]-[2019/05/16 11:39:14] Total 3050 files processed
+[INFO]-[2019/05/16 11:39:14] Total 3050 files processed
+[INFO]-[2019/05/16 11:39:15] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg
+[INFO]-[2019/05/16 11:39:15] Total 3100 files processed
+[INFO]-[2019/05/16 11:39:15] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background.jpg
+[INFO]-[2019/05/16 11:39:15] Total 3100 files processed
+[INFO]-[2019/05/16 11:39:16] Total 3150 files processed
+[INFO]-[2019/05/16 11:39:16] Total 3150 files processed
+[INFO]-[2019/05/16 11:39:17] Total 3200 files processed
+[INFO]-[2019/05/16 11:39:17] Total 3200 files processed
+[INFO]-[2019/05/16 11:39:18] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4
+[INFO]-[2019/05/16 11:39:18] Total 3250 files processed
+[INFO]-[2019/05/16 11:39:18] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4 -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/DIGITAL-MARKETING.mp4
+[INFO]-[2019/05/16 11:39:18] Total 3250 files processed
+[INFO]-[2019/05/16 11:39:19] Total 3300 files processed
+[INFO]-[2019/05/16 11:39:19] Total 3300 files processed
+[INFO]-[2019/05/16 11:39:20] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/polygon3.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/polygon3.png
+[INFO]-[2019/05/16 11:39:20] Total 3350 files processed
+[INFO]-[2019/05/16 11:39:20] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/polygon3.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/polygon3.png
+[INFO]-[2019/05/16 11:39:20] Total 3350 files processed
+[INFO]-[2019/05/16 11:39:21] Total 3400 files processed
+[INFO]-[2019/05/16 11:39:21] Total 3400 files processed
+[INFO]-[2019/05/16 11:39:22] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01-1.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01-1.png
+[INFO]-[2019/05/16 11:39:22] Total 3450 files processed
+[INFO]-[2019/05/16 11:39:22] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/01-1.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/01-1.png
+[INFO]-[2019/05/16 11:39:22] Total 3450 files processed
+[INFO]-[2019/05/16 11:39:23] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/deviantartredesign.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/deviantartredesign.png
+[INFO]-[2019/05/16 11:39:23] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/presence-img2.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/presence-img2.jpg
+[INFO]-[2019/05/16 11:39:23] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg
+[INFO]-[2019/05/16 11:39:23] Total 3500 files processed
+[INFO]-[2019/05/16 11:39:23] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/deviantartredesign.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/deviantartredesign.png
+[INFO]-[2019/05/16 11:39:23] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/presence-img2.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/presence-img2.jpg
+[INFO]-[2019/05/16 11:39:23] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-36.jpg
+[INFO]-[2019/05/16 11:39:23] Total 3500 files processed
+[INFO]-[2019/05/16 11:39:24] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/arigato-site.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/arigato-site.png
+[INFO]-[2019/05/16 11:39:24] Total 3550 files processed
+[INFO]-[2019/05/16 11:39:24] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/arigato-site.png -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/arigato-site.png
+[INFO]-[2019/05/16 11:39:24] Total 3550 files processed
+[INFO]-[2019/05/16 11:39:25] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg
+[INFO]-[2019/05/16 11:39:25] Total 3600 files processed
+[INFO]-[2019/05/16 11:39:25] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/close-up-of-hanging-black-and-white-sneakers-with-P5J6YJ8.jpg
+[INFO]-[2019/05/16 11:39:25] Total 3600 files processed
+[INFO]-[2019/05/16 11:39:26] Total 3650 files processed
+[INFO]-[2019/05/16 11:39:26] Total 3650 files processed
+[INFO]-[2019/05/16 11:39:27] Total 3700 files processed
+[INFO]-[2019/05/16 11:39:27] Total 3700 files processed
+[INFO]-[2019/05/16 11:39:28] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg
+[INFO]-[2019/05/16 11:39:28] Total 3750 files processed
+[INFO]-[2019/05/16 11:39:28] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/2019/04/Abstract-Paint-Background-39.jpg
+[INFO]-[2019/05/16 11:39:28] Total 3750 files processed
+[INFO]-[2019/05/16 11:39:29] Total 3800 files processed
+[INFO]-[2019/05/16 11:39:29] Total 3800 files processed
+[INFO]-[2019/05/16 11:39:30] Total 3850 files processed
+[INFO]-[2019/05/16 11:39:30] Total 3850 files processed
+[INFO]-[2019/05/16 11:39:31] Total 3900 files processed
+[INFO]-[2019/05/16 11:39:31] Total 3900 files processed
+[INFO]-[2019/05/16 11:39:32] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd
+[INFO]-[2019/05/16 11:39:32] Total 3950 files processed
+[INFO]-[2019/05/16 11:39:32] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/uploads/elementor/tmp/5cd13e9cb1779/alec.psd
+[INFO]-[2019/05/16 11:39:32] Total 3950 files processed
+[INFO]-[2019/05/16 11:39:33] Total 4000 files processed
+[INFO]-[2019/05/16 11:39:33] Total 4000 files processed
+[INFO]-[2019/05/16 11:39:34] Total 4050 files processed
+[INFO]-[2019/05/16 11:39:34] Total 4050 files processed
+[INFO]-[2019/05/16 11:39:35] Total 4100 files processed
+[INFO]-[2019/05/16 11:39:35] Total 4100 files processed
+[INFO]-[2019/05/16 11:39:36] Total 4150 files processed
+[INFO]-[2019/05/16 11:39:36] Total 4150 files processed
+[INFO]-[2019/05/16 11:39:37] Total 4200 files processed
+[INFO]-[2019/05/16 11:39:37] Total 4200 files processed
+[INFO]-[2019/05/16 11:39:38] Total 4250 files processed
+[INFO]-[2019/05/16 11:39:38] Total 4250 files processed
+[INFO]-[2019/05/16 11:39:39] Total 4300 files processed
+[INFO]-[2019/05/16 11:39:39] Total 4300 files processed
+[INFO]-[2019/05/16 11:39:40] Total 4350 files processed
+[INFO]-[2019/05/16 11:39:40] Total 4350 files processed
+[INFO]-[2019/05/16 11:39:41] Total 4400 files processed
+[INFO]-[2019/05/16 11:39:41] Total 4400 files processed
+[INFO]-[2019/05/16 11:39:42] Total 4450 files processed
+[INFO]-[2019/05/16 11:39:42] Total 4450 files processed
+[INFO]-[2019/05/16 11:39:43] Total 4500 files processed
+[INFO]-[2019/05/16 11:39:43] Total 4500 files processed
+[INFO]-[2019/05/16 11:39:44] Total 4550 files processed
+[INFO]-[2019/05/16 11:39:44] Total 4550 files processed
+[INFO]-[2019/05/16 11:39:45] Total 4600 files processed
+[INFO]-[2019/05/16 11:39:45] Total 4600 files processed
+[INFO]-[2019/05/16 11:39:46] Total 4650 files processed
+[INFO]-[2019/05/16 11:39:46] Total 4650 files processed
+[INFO]-[2019/05/16 11:39:47] Total 4700 files processed
+[INFO]-[2019/05/16 11:39:47] Total 4700 files processed
+[INFO]-[2019/05/16 11:39:48] Total 4750 files processed
+[INFO]-[2019/05/16 11:39:48] Total 4750 files processed
+[INFO]-[2019/05/16 11:39:49] Total 4800 files processed
+[INFO]-[2019/05/16 11:39:49] Total 4800 files processed
+[INFO]-[2019/05/16 11:39:50] Total 4850 files processed
+[INFO]-[2019/05/16 11:39:50] Total 4850 files processed
+[INFO]-[2019/05/16 11:39:51] Total 4900 files processed
+[INFO]-[2019/05/16 11:39:51] Total 4900 files processed
+[INFO]-[2019/05/16 11:39:52] Total 4950 files processed
+[INFO]-[2019/05/16 11:39:52] Total 4950 files processed
+[INFO]-[2019/05/16 11:39:53] Total 5000 files processed
+[INFO]-[2019/05/16 11:39:53] Total 5000 files processed
+[INFO]-[2019/05/16 11:39:54] Total 5050 files processed
+[INFO]-[2019/05/16 11:39:54] Total 5050 files processed
+[INFO]-[2019/05/16 11:39:55] Total 5100 files processed
+[INFO]-[2019/05/16 11:39:55] Total 5100 files processed
+[INFO]-[2019/05/16 11:39:56] Total 5150 files processed
+[INFO]-[2019/05/16 11:39:56] Total 5150 files processed
+[INFO]-[2019/05/16 11:39:57] Total 5200 files processed
+[INFO]-[2019/05/16 11:39:57] Total 5200 files processed
+[INFO]-[2019/05/16 11:39:58] Total 5250 files processed
+[INFO]-[2019/05/16 11:39:58] Total 5250 files processed
+[INFO]-[2019/05/16 11:39:59] Total 5300 files processed
+[INFO]-[2019/05/16 11:39:59] Total 5300 files processed
+[INFO]-[2019/05/16 11:40:00] Total 5350 files processed
+[INFO]-[2019/05/16 11:40:00] Total 5350 files processed
+[INFO]-[2019/05/16 11:40:01] Total 5400 files processed
+[INFO]-[2019/05/16 11:40:01] Total 5400 files processed
+[INFO]-[2019/05/16 11:40:02] Total 5450 files processed
+[INFO]-[2019/05/16 11:40:02] Total 5450 files processed
+[INFO]-[2019/05/16 11:40:03] Total 5500 files processed
+[INFO]-[2019/05/16 11:40:03] Total 5500 files processed
+[INFO]-[2019/05/16 11:40:04] Total 5550 files processed
+[INFO]-[2019/05/16 11:40:04] Total 5550 files processed
+[INFO]-[2019/05/16 11:40:05] Total 5600 files processed
+[INFO]-[2019/05/16 11:40:05] Total 5600 files processed
+[INFO]-[2019/05/16 11:40:06] Total 5650 files processed
+[INFO]-[2019/05/16 11:40:06] Total 5650 files processed
+[INFO]-[2019/05/16 11:40:07] Total 5700 files processed
+[INFO]-[2019/05/16 11:40:07] Total 5700 files processed
+[INFO]-[2019/05/16 11:40:08] Total 5750 files processed
+[INFO]-[2019/05/16 11:40:08] Total 5750 files processed
+[INFO]-[2019/05/16 11:40:09] Total 5800 files processed
+[INFO]-[2019/05/16 11:40:09] Total 5800 files processed
+[INFO]-[2019/05/16 11:40:10] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/05/16 11:40:10] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/05/16 11:40:10] Total 5850 files processed
+[INFO]-[2019/05/16 11:40:10] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/05/16 11:40:10] Trying to copy big file: /home/viral/web/viral.com.ua/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /home/viral/web/viral.com.ua/public_html/dev/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/05/16 11:40:10] Total 5850 files processed
+[INFO]-[2019/05/16 11:40:11] Total 5900 files processed
+[INFO]-[2019/05/16 11:40:11] Total 5900 files processed
+[INFO]-[2019/05/16 11:40:12] Total 5950 files processed
+[INFO]-[2019/05/16 11:40:12] Total 5950 files processed
+[INFO]-[2019/05/16 11:40:13] Total 6000 files processed
+[INFO]-[2019/05/16 11:40:13] Total 6000 files processed
+[INFO]-[2019/05/16 11:40:14] Total 6050 files processed
+[INFO]-[2019/05/16 11:40:14] Total 6050 files processed
+[INFO]-[2019/05/16 11:40:15] Total 6100 files processed
+[INFO]-[2019/05/16 11:40:15] Total 6100 files processed
+[INFO]-[2019/05/16 11:40:16] Total 6150 files processed
+[INFO]-[2019/05/16 11:40:16] Total 6150 files processed
+[INFO]-[2019/05/16 11:40:17] Total 6200 files processed
+[INFO]-[2019/05/16 11:40:17] Total 6200 files processed
+[INFO]-[2019/05/16 11:40:18] Total 6250 files processed
+[INFO]-[2019/05/16 11:40:18] Total 6250 files processed
+[INFO]-[2019/05/16 11:40:19] Total 6300 files processed
+[INFO]-[2019/05/16 11:40:19] Total 6300 files processed
+[INFO]-[2019/05/16 11:40:20] Total 6350 files processed
+[INFO]-[2019/05/16 11:40:20] Total 6350 files processed
+[INFO]-[2019/05/16 11:40:20] Total 6400 files processed
+[INFO]-[2019/05/16 11:40:20] Total 6400 files processed
+[INFO]-[2019/05/16 11:40:21] Total 6450 files processed
+[INFO]-[2019/05/16 11:40:21] Total 6450 files processed
+[INFO]-[2019/05/16 11:40:21] Total 6500 files processed
+[INFO]-[2019/05/16 11:40:21] Total 6500 files processed
+[INFO]-[2019/05/16 11:40:22] Total 6550 files processed
+[INFO]-[2019/05/16 11:40:22] Total 6550 files processed
+[INFO]-[2019/05/16 11:40:22] Total 6600 files processed
+[INFO]-[2019/05/16 11:40:22] Total 6600 files processed
+[INFO]-[2019/05/16 11:40:23] Total 6650 files processed
+[INFO]-[2019/05/16 11:40:23] Total 6650 files processed
+[INFO]-[2019/05/16 11:40:23] Total 6700 files processed
+[INFO]-[2019/05/16 11:40:23] Total 6700 files processed
+[INFO]-[2019/05/16 11:40:24] Total 6750 files processed
+[INFO]-[2019/05/16 11:40:24] Total 6750 files processed
+[INFO]-[2019/05/16 11:40:24] Total 6800 files processed
+[INFO]-[2019/05/16 11:40:24] Total 6800 files processed
+[INFO]-[2019/05/16 11:40:25] Total 6850 files processed
+[INFO]-[2019/05/16 11:40:25] Total 6850 files processed
+[INFO]-[2019/05/16 11:40:25] Total 6900 files processed
+[INFO]-[2019/05/16 11:40:25] Total 6900 files processed
+[INFO]-[2019/05/16 11:40:26] Total 6950 files processed
+[INFO]-[2019/05/16 11:40:26] Total 6950 files processed
+[INFO]-[2019/05/16 11:40:26] Total 7000 files processed
+[INFO]-[2019/05/16 11:40:26] Total 7000 files processed
+[INFO]-[2019/05/16 11:40:27] Total 7050 files processed
+[INFO]-[2019/05/16 11:40:27] Total 7050 files processed
+[INFO]-[2019/05/16 11:40:27] Total 7100 files processed
+[INFO]-[2019/05/16 11:40:27] Total 7100 files processed
+[INFO]-[2019/05/16 11:40:28] Total 7150 files processed
+[INFO]-[2019/05/16 11:40:28] Total 7150 files processed
+[INFO]-[2019/05/16 11:40:29] Total 7200 files processed
+[INFO]-[2019/05/16 11:40:29] Total 7200 files processed
+[INFO]-[2019/05/16 11:40:29] Total 7250 files processed
+[INFO]-[2019/05/16 11:40:29] Total 7250 files processed
+[INFO]-[2019/05/16 11:40:30] Total 7300 files processed
+[INFO]-[2019/05/16 11:40:30] Total 7300 files processed
+[INFO]-[2019/05/16 11:40:30] Total 7350 files processed
+[INFO]-[2019/05/16 11:40:30] Total 7350 files processed
+[INFO]-[2019/05/16 11:40:31] Total 7400 files processed
+[INFO]-[2019/05/16 11:40:31] Total 7400 files processed
+[INFO]-[2019/05/16 11:40:31] Total 7450 files processed
+[INFO]-[2019/05/16 11:40:31] Total 7450 files processed
+[INFO]-[2019/05/16 11:40:32] Total 7500 files processed
+[INFO]-[2019/05/16 11:40:32] Total 7500 files processed
+[INFO]-[2019/05/16 11:40:33] Total 7550 files processed
+[INFO]-[2019/05/16 11:40:33] Total 7550 files processed
+[INFO]-[2019/05/16 11:40:33] Total 7600 files processed
+[INFO]-[2019/05/16 11:40:33] Total 7600 files processed
+[INFO]-[2019/05/16 11:40:34] Total 7650 files processed
+[INFO]-[2019/05/16 11:40:34] Total 7650 files processed
+[INFO]-[2019/05/16 11:40:34] Total 7700 files processed
+[INFO]-[2019/05/16 11:40:34] Total 7700 files processed
+[INFO]-[2019/05/16 11:40:35] Total 7750 files processed
+[INFO]-[2019/05/16 11:40:35] Total 7750 files processed
+[INFO]-[2019/05/16 11:40:35] Total 7800 files processed
+[INFO]-[2019/05/16 11:40:35] Total 7800 files processed
+[INFO]-[2019/05/16 11:40:36] Total 7850 files processed
+[INFO]-[2019/05/16 11:40:36] Total 7850 files processed
+[INFO]-[2019/05/16 11:40:36] Total 7900 files processed
+[INFO]-[2019/05/16 11:40:36] Total 7900 files processed
+[INFO]-[2019/05/16 11:40:37] Total 7950 files processed
+[INFO]-[2019/05/16 11:40:37] Total 7950 files processed
+[INFO]-[2019/05/16 11:40:38] Total 8000 files processed
+[INFO]-[2019/05/16 11:40:38] Total 8000 files processed
+[INFO]-[2019/05/16 11:40:38] Total 8050 files processed
+[INFO]-[2019/05/16 11:40:38] Total 8050 files processed
+[INFO]-[2019/05/16 11:40:39] Total 8100 files processed
+[INFO]-[2019/05/16 11:40:39] Total 8100 files processed
+[INFO]-[2019/05/16 11:40:40] Total 8150 files processed
+[INFO]-[2019/05/16 11:40:40] Total 8150 files processed
+[INFO]-[2019/05/16 11:40:40] Total 8200 files processed
+[INFO]-[2019/05/16 11:40:40] Total 8200 files processed
+[INFO]-[2019/05/16 11:40:41] Total 8250 files processed
+[INFO]-[2019/05/16 11:40:41] Total 8250 files processed
+[INFO]-[2019/05/16 11:40:41] Total 8300 files processed
+[INFO]-[2019/05/16 11:40:41] Total 8300 files processed
+[INFO]-[2019/05/16 11:40:42] Total 8350 files processed
+[INFO]-[2019/05/16 11:40:42] Total 8350 files processed
+[INFO]-[2019/05/16 11:40:42] Total 8400 files processed
+[INFO]-[2019/05/16 11:40:42] Total 8400 files processed
+[INFO]-[2019/05/16 11:40:43] Total 8450 files processed
+[INFO]-[2019/05/16 11:40:43] Total 8450 files processed
+[INFO]-[2019/05/16 11:40:43] Total 8500 files processed
+[INFO]-[2019/05/16 11:40:43] Total 8500 files processed
+[INFO]-[2019/05/16 11:40:44] Total 8550 files processed
+[INFO]-[2019/05/16 11:40:44] Total 8550 files processed
+[INFO]-[2019/05/16 11:40:44] Total 8600 files processed
+[INFO]-[2019/05/16 11:40:44] Total 8600 files processed
+[INFO]-[2019/05/16 11:40:45] Total 8650 files processed
+[INFO]-[2019/05/16 11:40:45] Total 8650 files processed
+[INFO]-[2019/05/16 11:40:45] Total 8700 files processed
+[INFO]-[2019/05/16 11:40:45] Total 8700 files processed
+[INFO]-[2019/05/16 11:40:46] Total 8750 files processed
+[INFO]-[2019/05/16 11:40:46] Total 8750 files processed
+[INFO]-[2019/05/16 11:40:47] Total 8800 files processed
+[INFO]-[2019/05/16 11:40:47] Total 8800 files processed
+[INFO]-[2019/05/16 11:40:47] Total 8850 files processed
+[INFO]-[2019/05/16 11:40:47] Total 8850 files processed
+[INFO]-[2019/05/16 11:40:48] Total 8900 files processed
+[INFO]-[2019/05/16 11:40:48] Total 8900 files processed
+[INFO]-[2019/05/16 11:40:48] Total 8950 files processed
+[INFO]-[2019/05/16 11:40:48] Total 8950 files processed
+[INFO]-[2019/05/16 11:40:49] Total 9000 files processed
+[INFO]-[2019/05/16 11:40:49] Total 9000 files processed
+[INFO]-[2019/05/16 11:40:49] Total 9050 files processed
+[INFO]-[2019/05/16 11:40:49] Total 9050 files processed
+[INFO]-[2019/05/16 11:40:50] Total 9100 files processed
+[INFO]-[2019/05/16 11:40:50] Total 9100 files processed
+[INFO]-[2019/05/16 11:40:50] Total 9150 files processed
+[INFO]-[2019/05/16 11:40:50] Total 9150 files processed
+[INFO]-[2019/05/16 11:40:51] Total 9200 files processed
+[INFO]-[2019/05/16 11:40:51] Total 9200 files processed
+[INFO]-[2019/05/16 11:40:52] Total 9250 files processed
+[INFO]-[2019/05/16 11:40:52] Total 9250 files processed
+[INFO]-[2019/05/16 11:40:52] Total 9300 files processed
+[INFO]-[2019/05/16 11:40:52] Total 9300 files processed
+[INFO]-[2019/05/16 11:40:53] Total 9350 files processed
+[INFO]-[2019/05/16 11:40:53] Total 9350 files processed
+[INFO]-[2019/05/16 11:40:53] Total 9400 files processed
+[INFO]-[2019/05/16 11:40:53] Total 9400 files processed
+[INFO]-[2019/05/16 11:40:54] Total 9450 files processed
+[INFO]-[2019/05/16 11:40:54] Total 9450 files processed
+[INFO]-[2019/05/16 11:40:54] Total 9500 files processed
+[INFO]-[2019/05/16 11:40:54] Total 9500 files processed
+[INFO]-[2019/05/16 11:40:55] Total 9550 files processed
+[INFO]-[2019/05/16 11:40:55] Total 9550 files processed
+[INFO]-[2019/05/16 11:40:55] Total 9600 files processed
+[INFO]-[2019/05/16 11:40:55] Total 9600 files processed
+[INFO]-[2019/05/16 11:40:56] Total 9650 files processed
+[INFO]-[2019/05/16 11:40:56] Total 9650 files processed
+[INFO]-[2019/05/16 11:40:56] Total 9700 files processed
+[INFO]-[2019/05/16 11:40:56] Total 9700 files processed
+[INFO]-[2019/05/16 11:40:57] Total 9750 files processed
+[INFO]-[2019/05/16 11:40:57] Total 9750 files processed
+[INFO]-[2019/05/16 11:40:58] Total 9800 files processed
+[INFO]-[2019/05/16 11:40:58] Total 9800 files processed
+[INFO]-[2019/05/16 11:40:58] Total 9850 files processed
+[INFO]-[2019/05/16 11:40:58] Total 9850 files processed
+[INFO]-[2019/05/16 11:40:58] Total 9900 files processed
+[INFO]-[2019/05/16 11:40:58] Total 9900 files processed
+[INFO]-[2019/05/16 11:40:59] Total 9950 files processed
+[INFO]-[2019/05/16 11:40:59] Total 9950 files processed
+[INFO]-[2019/05/16 11:41:00] Total 10000 files processed
+[INFO]-[2019/05/16 11:41:00] Total 10000 files processed
+[INFO]-[2019/05/16 11:41:00] Total 10050 files processed
+[INFO]-[2019/05/16 11:41:00] Total 10050 files processed
+[INFO]-[2019/05/16 11:41:01] Total 10100 files processed
+[INFO]-[2019/05/16 11:41:01] Total 10100 files processed
+[INFO]-[2019/05/16 11:41:01] Total 10150 files processed
+[INFO]-[2019/05/16 11:41:01] Total 10150 files processed
+[INFO]-[2019/05/16 11:41:02] Total 10200 files processed
+[INFO]-[2019/05/16 11:41:02] Total 10200 files processed
+[INFO]-[2019/05/16 11:41:02] Total 10250 files processed
+[INFO]-[2019/05/16 11:41:02] Total 10250 files processed
+[INFO]-[2019/05/16 11:41:03] Total 10300 files processed
+[INFO]-[2019/05/16 11:41:03] Total 10300 files processed
+[WARNING]-[2019/05/16 11:41:04] File doesn't exist /home/viral/web/viral.com.ua/public_html/
+[WARNING]-[2019/05/16 11:41:04] File doesn't exist /home/viral/web/viral.com.ua/public_html/
+[INFO]-[2019/05/16 11:41:04] Copying files finished
+[INFO]-[2019/05/16 11:41:04] Copying files finished
+[INFO]-[2019/05/16 11:41:04] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/05/16 11:41:04] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/05/16 11:41:05] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/05/16 11:41:05] Preparing Data Step1: Updating siteurl and homeurl to http://dev.viral.com.ua
+[INFO]-[2019/05/16 11:41:05] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/05/16 11:41:05] Preparing Data Step1: Updating siteurl and homeurl to http://dev.viral.com.ua
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step2: Successfull
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step2: Successfull
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/05/16 11:41:06] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/05/16 11:41:07] Preparing Data Step5: Updating table_prefix in /home/viral/web/viral.com.ua/public_html/dev/wp-config.php to wpstg0_
+[INFO]-[2019/05/16 11:41:07] Preparing Data Step5: Updating table_prefix in /home/viral/web/viral.com.ua/public_html/dev/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:41:08] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/05/16 11:41:08] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/05/16 11:41:08] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/05/16 11:41:08] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/05/16 11:41:08] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/05/16 11:41:08] Preparing Data Step8: Finished successfully
+[INFO]-[2019/05/16 11:41:08] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/05/16 11:41:08] Preparing Data Step8: Finished successfully
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step9: Set staging site to noindex
+[WARNING]-[2019/05/16 11:41:09] Can not update staging site to noindex. Possible already done!
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step9: Set staging site to noindex
+[WARNING]-[2019/05/16 11:41:09] Can not update staging site to noindex. Possible already done!
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://dev.viral.com.ua
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://dev.viral.com.ua
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:09] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://dev.viral.com.ua
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://dev.viral.com.ua
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/05/16 11:41:10] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step13: Skipped
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step13: Skipped
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/05/16 11:41:11] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:12] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/05/16 11:41:13] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/05/16 11:41:13] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:13] Preparing Data Step 17: Finished successfully
+[INFO]-[2019/05/16 11:41:13] Preparing Data Step17: Remove UPLOADS in wp-config.php
+[INFO]-[2019/05/16 11:41:13] Preparing Data Step17: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/05/16 11:41:13] Preparing Data Step 17: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/05/16 11:41:14] Finish: Deleting clone job's cache files...
+[INFO]-[2019/05/16 11:41:14] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/05/16 11:41:14] Finish: Verifying existing clones...
+[INFO]-[2019/05/16 11:41:14] Finish: dev's clone job's data is not in database, generating data
+[INFO]-[2019/05/16 11:41:14] Finish: Deleting clone job's cache files...
+[INFO]-[2019/05/16 11:41:14] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/05/16 11:41:14] Finish: Verifying existing clones...
+[INFO]-[2019/05/16 11:41:14] Finish: dev's clone job's data is not in database, generating data
