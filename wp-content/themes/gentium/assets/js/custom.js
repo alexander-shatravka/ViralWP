@@ -154,9 +154,9 @@ function initServiceFormPopup(){
 
 function initformValidation() {
 	jQuery('#submit').click(function (){
-		var name = jQuery(this).parent().find('input[name=orderName]');
+		var name = jQuery(this).parents('.order-form-wrapper').find('input[name=orderName]');
 		alert(name.val());
-		var tel = jQuery(this).parent().find('input[name=orderPhone]');
+		var tel = jQuery(this).parents('.order-form-wrapper').find('input[name=orderPhone]');
 		alert(tel.val());
 	
         //If error found, add hightlight class to the text field
