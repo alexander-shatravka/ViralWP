@@ -64,12 +64,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<h3>Узнай о наших предложениях недели! Просто оставь свои контакты</h3>
 				<div class="rows">
 					<span class="wpcf7-form-control-wrap text-field-required">
-						<input type="text" name="orderName" id="orderName" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" placeholder="Имя">
+						<input type="text" name="orderName" id="orderName" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" placeholder="Имя*">
 					</span>
 				</div>
 				<div class="rows">
 					<span class="wpcf7-form-control-wrap text-field-required">
-						<input type="text" name="orderPhone" id="orderPhone" value="" class="masked-phone wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" data-rule-phonevalidate="1" data-rule-phoneverified="1" placeholder="Телефон" data-mask="+38 (099) 999-99-99" minlength="19" maxlength="19" autocomplete="off">
+						<input type="text" name="orderPhone" id="orderPhone" value="" class="masked-phone wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" size="12" data-rule-phonevalidate="1" data-rule-phoneverified="1" placeholder="Телефон*" data-mask="+38 (099) 999-99-99" minlength="19" maxlength="19" autocomplete="off">
 					</span>
 				</div>
 				<div class="rows">
@@ -101,12 +101,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div>
 				<div class="rows">
 					<span class="wpcf7-form-control-wrap text-field-required">
-						<input type="text" name="orderName" id="orderName" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark"  placeholder="Имя">
+						<input type="text" name="orderName" id="orderName" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark"  placeholder="Имя*">
 					</span>
 				</div>
 				<div class="rows">
 					<span class="wpcf7-form-control-wrap text-field-required">
-						<input type="text" name="orderPhone" id="orderPhone" value="" class="masked-phone wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" data-rule-phonevalidate="1" data-rule-phoneverified="1" placeholder="Телефон" data-mask="+38 (099) 999-99-99" autocomplete="off">
+						<input type="text" name="orderPhone" id="orderPhone" value="" class="masked-phone wpcf7-form-control wpcf7-text wpcf7-validates-as-required text-field-class wpcf7-use-title-as-watermark" data-rule-phonevalidate="1" data-rule-phoneverified="1" placeholder="Телефон*" data-mask="+38 (099) 999-99-99" autocomplete="off">
 					</span>
 				</div>
 				<div class="rows">
