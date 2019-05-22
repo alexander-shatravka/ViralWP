@@ -6,8 +6,7 @@ jQuery(document).ready(function(){
     initSlickSliders();
     initFormPopup();
 	initServiceFormPopup();
-	formValidation();
-	// initFormValidation();
+	initformValidation();
     initAjaxForm();
     removeLoaderIfNotFound();
 })
