@@ -7,7 +7,7 @@ jQuery(document).ready(function(){
     initFormPopup();
 	initServiceFormPopup();
 	formValidation();
-	initFormValidation();
+	// initFormValidation();
     initAjaxForm();
     removeLoaderIfNotFound();
 })
@@ -154,27 +154,21 @@ function initServiceFormPopup(){
 }
 
 function formValidation() {
-        var name = jQuery(this).parent().find('input[name=orderName]');
-		var email = jQuery(this).parent().find('input[name=orderEmail]');
+	jQuery('#submit').click(function (){
+		var name = jQuery(this).parent().find('input[name=orderName]');
 		var tel = jQuery(this).parent().find('input[name=orderPhone]');
-        var comment = jQuery(this).parent().find('textarea[name=orderMessage]');
-		var returnError = false;
-		
+		// var email = jQuery(this).parent().find('input[name=orderEmail]');
+        // var comment = jQuery(this).parent().find('textarea[name=orderMessage]');
+	
         //If error found, add hightlight class to the text field
         if (name.val()=='') {
             name.addClass('error');
-            returnError = true;
         } else name.removeClass('error');
 
 		if (tel.val()=='') {
             tel.addClass('error');
-            returnError = true;
-        } else tel.removeClass('error');
-
-        // Highlight all error fields, then quit.
-        if(returnError == true) {
-            return false;	
-		}
+		} else tel.removeClass('error');
+	});
 }
 function initFormValidation() {
 	jQuery('#submit').click(function (){formValidation()});
