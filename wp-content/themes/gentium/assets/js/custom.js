@@ -153,7 +153,7 @@ function initServiceFormPopup(){
 }
 
 function initformValidation() {
-	jQuery('#submit').click(function (){
+	jQuery('.btn-submit-order', 'btn-submit-order-2', 'btn-submit-order-service').click(function (){
 		var name = jQuery(this).parents('.order-form-wrapper').find('input[name=orderName]');
 		alert(name.val());
 		var tel = jQuery(this).parents('.order-form-wrapper').find('input[name=orderPhone]');
