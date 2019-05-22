@@ -153,12 +153,12 @@ function initServiceFormPopup(){
 	});
 }
 
-function formValidation() {
+function initformValidation() {
 	jQuery('#submit').click(function (){
 		var name = jQuery(this).parent().find('input[name=orderName]');
+		alert(name.val());
 		var tel = jQuery(this).parent().find('input[name=orderPhone]');
-		// var email = jQuery(this).parent().find('input[name=orderEmail]');
-        // var comment = jQuery(this).parent().find('textarea[name=orderMessage]');
+		alert(tel.val());
 	
         //If error found, add hightlight class to the text field
         if (name.val()=='') {
@@ -169,10 +169,18 @@ function formValidation() {
             tel.addClass('error');
 		} else tel.removeClass('error');
 	});
-}
-function initFormValidation() {
-	jQuery('#submit').click(function (){formValidation()});
-	jQuery('input[name=orderName], input[name=orderEmail], input[name=orderPhone], textarea[name=orderMessage]').change(function(){formValidation()});
+	jQuery('input[name=orderName], input[name=orderEmail], input[name=orderPhone], textarea[name=orderMessage]').change(function(){
+		var name = jQuery(this).parent().find('input[name=orderName]');
+		var tel = jQuery(this).parent().find('input[name=orderPhone]');
+		
+        if (name.val()=='') {
+            name.addClass('error');
+        } else name.removeClass('error');
+
+		if (tel.val()=='') {
+            tel.addClass('error');
+		} else tel.removeClass('error');
+	});
 }
 
 function initAjaxForm(){
@@ -187,14 +195,7 @@ function initAjaxForm(){
             return false;
         }
         var form_data = jQuery('#order-form').serialize();
-            // $.ajax({  //mail to admins 
-            //     type: "POST", 
-            //     url: "mail.php",
-            //     data: popup_form_data + "&moredata=" + form_data,
-            //     success: function() {
-            //         location = 'thankPage.html'
-            //     },  
-            // });
+            
             jQuery.ajax({  //telegram to admins 
                 type: "POST", 
                 url: "https://viral.com.ua/telegram.php",
@@ -214,14 +215,7 @@ function initAjaxForm(){
             return false;
         }
         var form_data = jQuery('#order-form-2').serialize();
-            // $.ajax({  //mail to admins 
-            //     type: "POST", 
-            //     url: "mail.php",
-            //     data: popup_form_data + "&moredata=" + form_data,
-            //     success: function() {
-            //         location = 'thankPage.html'
-            //     },  
-            // });
+            
             jQuery.ajax({  //telegram to admins 
                 type: "POST", 
                 url: "https://viral.com.ua/telegram.php",
@@ -241,14 +235,7 @@ function initAjaxForm(){
             return false;
         }
         var form_data = jQuery('#order-service-form').serialize();
-            // $.ajax({  //mail to admins 
-            //     type: "POST", 
-            //     url: "mail.php",
-            //     data: popup_form_data + "&moredata=" + form_data,
-            //     success: function() {
-            //         location = 'thankPage.html'
-            //     },  
-            // });
+            
             jQuery.ajax({  //telegram to admins 
                 type: "POST", 
                 url: "https://viral.com.ua/telegram-service.php",
